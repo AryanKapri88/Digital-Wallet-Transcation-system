@@ -1,17 +1,18 @@
-Total Budget,16000.0
+Total Budget,12000.0
 
 Transactions
 date,category,amount,total_budget,remaining_balance
-2025-04-17,food,1200.0,16000.0,14800.0
-2025-04-17,food,800.0,16000.0,14000.0
-2025-04-17,bills,500.0,16000.0,13500.0
-2025-04-17,travel,1200.0,16000.0,12300.0
-2025-04-17,bills,500.0,16000.0,11800.0
+2025-04-17,food,1300.0,12000.0,10700.0
+2025-04-17,food,700.0,12000.0,10000.0
+2025-04-17,travel,750.0,12000.0,9250.0
+2025-04-17,bills,1650.0,12000.0,7600.0
+2025-04-17,travel,399.0,12000.0,7201.0
+2025-04-17,bills,755.0,12000.0,6446.0
 
 Category Totals
 category,total_spent
-bills,1000.0
+bills,2405.0
 food,2000.0
-travel,1200.0
+travel,1149.0
 
-Remaining Balance,11800.0
+Remaining Balance,6446.0
