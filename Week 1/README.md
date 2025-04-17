@@ -21,6 +21,7 @@ This is a simple Python-based command-line tool to help users manage their perso
 
     c. Final balance
 
+
 ### 🔧 Features
 
 1. Dynamic category creation
