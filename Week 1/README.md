@@ -1,4 +1,3 @@
-# Digital-Wallet-Transcation-system
 
 ## Week 1 : Mini Project (Command-line expense tracker with categorization, budgeting, and transaction history)
 
