@@ -1,4 +1,3 @@
-# Digital-Wallet-Transcation-system
 
 ## Week 1 : Mini Project (Command-line expense tracker with categorization, budgeting, and transaction history)
 
@@ -21,6 +20,7 @@ This is a simple Python-based command-line tool to help users manage their perso
     b. Total spent per category
 
     c. Final balance
+
 
 ### 🔧 Features
 
