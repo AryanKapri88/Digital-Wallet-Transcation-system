@@ -1,20 +1,20 @@
-Total Budget,14000.0
+Total Budget,12000.0
 
 Transactions
 date,category,amount,total_budget,remaining_balance
-2025-04-22,food,4500.0,14000.0,9500.0
-2025-04-22,food,120.0,14000.0,9380.0
-2025-04-22,travel,3500.0,14000.0,5880.0
-2025-04-22,bills,450.0,14000.0,5430.0
-2025-04-22,food,150.0,14000.0,5280.0
-2025-04-22,entertainment,1000.0,14000.0,4280.0
-2025-04-22,bills,780.0,14000.0,3500.0
+2025-04-24,food,4500.0,12000.0,7500.0
+2025-04-24,bills,7000.0,12000.0,500.0
+2025-04-24,budget_increase,5000.0,17000.0,5500.0
+2025-04-24,travel,3000.0,17000.0,2500.0
+2025-04-24,esewa_loan,12000.0,24000.0,14500.0
+2025-04-24,food,3500.0,24000.0,11000.0
 
 Category Totals
 category,total_spent
-bills,1230.0
-entertainment,1000.0
-food,4770.0
-travel,3500.0
+bills,7000.0
+budget_increase,5000.0
+esewa_loan,12000.0
+food,8000.0
+travel,3000.0
 
-Remaining Balance,3500.0
+Remaining Balance,11000.0
