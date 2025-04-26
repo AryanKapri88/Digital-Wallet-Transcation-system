@@ -1,0 +1,4 @@
+Transaction ID,Date,Transaction Type,Total Balance,Amount,Remaining Balance,Remarks
+CZK8T5,2025-04-23 17:55:01,Money Transfer,30000.0,12900.0,17100.0,rent done
+08KJBK,2025-04-23 17:55:24,Bill Payment,17100.0,120.0,16980.0,momo
+LOQY6H,2025-04-23 17:56:01,Mobile Recharge,16980.0,20.0,16960.0,ntc
