@@ -4,96 +4,57 @@ This is a simple Python-based digital wallet system that allows users to perform
 
 # Features
 
-a. User Tiers:
+## User Tiers:
 
     Basic User: Limited to 5 transactions per day, can upgrade to Premium.
 
     Premium User: Unlimited transactions, requires a one-time subscription fee of 1000.
 
 
+## Transaction Types:
 
-Transaction Types:
+    Money Transfer: Send money to a payee with a specified bank.
 
+    Bill Payment: Pay bills for categories like electricity.
 
 
 
+## Mobile Recharge: 
 
-Money Transfer: Send money to a payee with a specified bank.
+    Recharge a mobile number via top up.
 
 
+## PIN Verification:
 
-Bill Payment: Pay bills for categories like electricity.
+    Set a 4-digit PIN during setup.
 
+    Verify PIN for each transaction (3 attempts allowed).
 
 
-Mobile Recharge: Recharge a mobile number.
+## Balance Management:
 
+    Add balance manually if insufficient.
 
+    Option to take a loan with 5% annual interest if balance is low.
 
-PIN Verification:
 
 
+## Loan Handling:
 
+    Take a loan to cover transactions.
 
+    Loan details (amount, monthly repayment) are displayed.
 
-Set a 4-digit PIN during setup.
 
+## Transaction Limits:
 
+    Basic users are restricted to 5 transactions per day.
 
-Verify PIN for each transaction (3 attempts allowed).
+    Upgrade to Premium to remove limits.
 
 
+## Transaction Statement (CSV):
 
-Balance Management:
+    Saves transactions to transaction.csv.
 
-
-
-
-
-Add balance manually if insufficient.
-
-
-
-Option to take a loan with 5% annual interest if balance is low.
-
-
-
-Loan Handling:
-
-
-
-
-
-Take a loan to cover transactions.
-
-
-
-Loan details (amount, monthly repayment) are displayed.
-
-
-
-Transaction Limits:
-
-
-
-
-
-Basic users are restricted to 5 transactions per day.
-
-
-
-Upgrade to Premium to remove limits.
-
-
-
-Transaction Statement (CSV):
-
-
-
-
-
-Saves transactions to transaction.csv.
-
-
-
-Columns: Transaction ID, Date, Transaction Type, Total Balance, Amount, Remaining Balance, Remarks.
+    Columns: Transaction ID, Date, Transaction Type, Total Balance, Amount, Remaining Balance, Remarks.
