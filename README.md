@@ -4,14 +4,14 @@ This is a simple Python-based digital wallet system that allows users to perform
 
 # Features
 
-## User Tiers:
+### User Tiers:
 
     Basic User: Limited to 5 transactions per day, can upgrade to Premium.
 
     Premium User: Unlimited transactions, requires a one-time subscription fee of 1000.
 
 
-## Transaction Types:
+### Transaction Types:
 
     Money Transfer: Send money to a payee with a specified bank.
 
@@ -19,19 +19,19 @@ This is a simple Python-based digital wallet system that allows users to perform
 
 
 
-## Mobile Recharge: 
+### Mobile Recharge: 
 
     Recharge a mobile number via top up.
 
 
-## PIN Verification:
+### PIN Verification:
 
     Set a 4-digit PIN during setup.
 
     Verify PIN for each transaction (3 attempts allowed).
 
 
-## Balance Management:
+### Balance Management:
 
     Add balance manually if insufficient.
 
@@ -39,22 +39,37 @@ This is a simple Python-based digital wallet system that allows users to perform
 
 
 
-## Loan Handling:
+### Loan Handling:
 
     Take a loan to cover transactions.
 
     Loan details (amount, monthly repayment) are displayed.
 
 
-## Transaction Limits:
+### Transaction Limits:
 
     Basic users are restricted to 5 transactions per day.
 
     Upgrade to Premium to remove limits.
 
 
-## Transaction Statement (CSV):
+### Transaction Statement (CSV):
 
     Saves transactions to transaction.csv.
 
     Columns: Transaction ID, Date, Transaction Type, Total Balance, Amount, Remaining Balance, Remarks.
+
+
+# Files
+
+
+`main.ipynb:` Main script to run the application (Jupyter Notebook).
+
+
+`user_tier.py:` Handles user tiers (Basic and Premium) and balance management.
+
+
+`payment_processing.py:` Processes transactions, verifies PIN, and saves to CSV.
+
+
+`transaction_type.py:` Defines transaction types (Money Transfer, Bill Payment, Mobile Recharge).
