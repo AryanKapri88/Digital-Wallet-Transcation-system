@@ -4,17 +4,11 @@ This is a simple Python-based digital wallet system that allows users to perform
 
 # Features
 
-a. ## User Tiers:
+a. User Tiers:
 
+    Basic User: Limited to 5 transactions per day, can upgrade to Premium.
 
-
-
-
-Basic User: Limited to 5 transactions per day, can upgrade to Premium.
-
-
-
-Premium User: Unlimited transactions, requires a one-time subscription fee of 1000.
+    Premium User: Unlimited transactions, requires a one-time subscription fee of 1000.
 
 
 
