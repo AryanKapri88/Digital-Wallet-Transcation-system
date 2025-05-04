@@ -17,6 +17,8 @@ This is a simple Python-based digital wallet system that allows users to perform
 
     Bill Payment: Pay bills for categories like electricity.
 
+    TopUp: Recharge your phone balance.
+
 
 
 ### Mobile Recharge: 
