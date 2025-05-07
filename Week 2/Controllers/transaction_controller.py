@@ -1,53 +1,8 @@
-from datetime import datetime
+from Models.transaction import MoneyTransfer, BillPayment, MobileRecharge
 
-class Transaction:
-    def __init__(self, amount, remarks):
-        self.amount = amount
-        self.remarks = remarks
-        self.date = datetime.now()
-
-    def get_details(self):
-        return f"Transaction - Amount: {self.amount}, Remarks: {self.remarks}"
-
-    def get_transaction_type(self):
-        return "Generic Transaction"
-
-class MoneyTransfer(Transaction):
-    def __init__(self, payee_name, bank, amount, remarks):
-        super().__init__(amount, remarks)
-        self.payee_name = payee_name
-        self.bank = bank
-
-    def get_details(self):
-        return f"Money Transfer to {self.payee_name} ({self.bank}) - Amount: {self.amount}, Remarks: {self.remarks}"
-
-    def get_transaction_type(self):
-        return "Money Transfer"
-
-class BillPayment(Transaction):
-    def __init__(self, bill_category, amount, remarks):
-        super().__init__(amount, remarks)
-        self.bill_category = bill_category
-
-    def get_details(self):
-        return f"Bill Payment ({self.bill_category}) - Amount: {self.amount}, Remarks: {self.remarks}"
-
-    def get_transaction_type(self):
-        return "Bill Payment"
-
-class MobileRecharge(Transaction):
-    def __init__(self, mobile_number, amount, remarks):
-        super().__init__(amount, remarks)
-        self.mobile_number = mobile_number
-
-    def get_details(self):
-        return f"Mobile Recharge ({self.mobile_number}) - Amount: {self.amount}, Remarks: {self.remarks}"
-
-    def get_transaction_type(self):
-        return "Mobile Recharge"
 
 def perform_transaction(user):
-    print("\nChoose transaction type: 1. Money Transfer 2. Bill Payment 3. Mobile Recharge")
+    print("\nChoose transaction type: 1. Money Transfer 2. Bill Payment 3. MobileRecharge")
     choice = input("Enter choice (1, 2, or 3): ")
 
     if choice == '1':
@@ -102,3 +57,11 @@ def perform_transaction(user):
     else:
         print("Invalid choice!")
         return None
+
+def save_statement(transactions, username, db):
+    if not transactions:
+        return
+
+    for transaction in transactions:
+        db.save_transaction(transaction)
+    print(f"Transaction statement saved to database for user {username}")

@@ -1,18 +1,19 @@
 import random
 import string
-from user_tier import BasicUser, PremiumUser
+from Repository.database import Database
 
 class PaymentProcessor:
-    def __init__(self):
-        self._pin = self._set_pin()
+    def __init__(self, db: Database):
         self._transactions = []
         self._used_transaction_ids = set()
+        self.db = db
 
-    def _set_pin(self):
+    def _set_pin(self, username):
         pin = input("Set your 4-digit PIN: ")
         while not (pin.isdigit() and len(pin) == 4):
             print("PIN must be a 4-digit number!")
             pin = input("Set your 4-digit PIN: ")
+        self.db.save_pin(username, pin)
         return pin
 
     def _generate_transaction_id(self):
@@ -23,13 +24,17 @@ class PaymentProcessor:
                 self._used_transaction_ids.add(transaction_id)
                 return transaction_id
 
-    def verify_pin(self):
+    def verify_pin(self, username):
+        stored_pin = self.db.get_pin(username)
+        if not stored_pin:
+            print("PIN not set! Setting a new PIN.")
+            return self._set_pin(username)
+
         max_attempts = 3
         attempts = 0
-
         while attempts < max_attempts:
             entered_pin = input("Enter your PIN: ")
-            if entered_pin == self._pin:
+            if entered_pin == stored_pin:
                 return True
             else:
                 attempts += 1
@@ -49,12 +54,11 @@ class PaymentProcessor:
         if not can_proceed:
             return False, updated_user
 
-        user = updated_user  # Update user to reflect any upgrades
-
+        user = updated_user
         print(f"\nProcessing {transaction.get_transaction_type()}...")
         print(transaction.get_details())
 
-        if not self.verify_pin():
+        if not self.verify_pin(user.get_username()):
             return False, user
 
         if user.deduct_balance(transaction.amount):
@@ -66,9 +70,9 @@ class PaymentProcessor:
                 'total_balance': user.balance + transaction.amount,
                 'amount': transaction.amount,
                 'remaining_balance': user.balance,
-                'remarks': transaction.remarks
+                'remarks': transaction.remarks,
+                'user_id': user.get_username()
             })
-            print(f"Transaction successful! Transaction ID: {transaction_id}")
             return True, user
         else:
             return False, user

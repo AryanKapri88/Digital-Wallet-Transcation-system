@@ -1,12 +1,14 @@
 from datetime import datetime, date
 import sys
+from Repository.database import Database
 
 class User:
-    def __init__(self, username, initial_balance):
+    def __init__(self, username, initial_balance, db: Database = None):
         self._username = username
         self._balance = 0
         self._transaction_count = 0
         self._last_transaction_date = None
+        self.db = db
         self.set_balance(initial_balance)
 
     @property
@@ -17,9 +19,13 @@ class User:
         if amount >= 0:
             self._balance = amount
             print(f"Balance set to {self._balance} for {self._username}")
+            if self.db:
+                self.db.save_user(self._username, self._balance, self.__class__.__name__)
         else:
             print("Balance cannot be negative!")
             self._balance = 0
+            if self.db:
+                self.db.save_user(self._username, self._balance, self.__class__.__name__)
 
     def add_balance(self):
         try:
@@ -27,6 +33,8 @@ class User:
             if amount > 0:
                 self._balance += amount
                 print(f"Added {amount}. New balance: {self._balance}")
+                if self.db:
+                    self.db.update_user_balance(self._username, self._balance)
                 return True
             else:
                 print("Amount must be positive!")
@@ -39,6 +47,8 @@ class User:
         if amount <= self._balance:
             self._balance -= amount
             self._increment_transaction_count()
+            if self.db:
+                self.db.update_user_balance(self._username, self._balance)
             return True
         else:
             print("Balance finished! Do you want to add balance?")
@@ -48,6 +58,8 @@ class User:
                 if self.add_balance() and amount <= self._balance:
                     self._balance -= amount
                     self._increment_transaction_count()
+                    if self.db:
+                        self.db.update_user_balance(self._username, self._balance)
                     return True
             return self.handle_loan_option(amount)
 
@@ -67,9 +79,13 @@ class User:
                 print(f"You have taken {loan_amount} of loan for a year for 5% interest so you have to pay {monthly_payment:.2f} monthly.")
                 self._balance += loan_amount
                 print(f"Added {loan_amount}. New balance: {self._balance}")
+                if self.db:
+                    self.db.update_user_balance(self._username, self._balance)
                 if amount <= self._balance:
                     self._balance -= amount
                     self._increment_transaction_count()
+                    if self.db:
+                        self.db.update_user_balance(self._username, self._balance)
                     return True
                 else:
                     print("Transaction failed due to insufficient balance after loan.")
@@ -89,10 +105,10 @@ class User:
         self._transaction_count += 1
 
     def can_perform_transaction(self):
-        return True, self  # Overridden by subclasses
+        return True, self
 
     def upgrade_to_premium(self):
-        pass  # Overridden by BasicUser
+        pass
 
     def get_username(self):
         return self._username
@@ -124,8 +140,11 @@ class BasicUser(User):
         print(f"Premium subscription requires a payment of {subscription_fee} for a whole year.")
         if self._balance >= subscription_fee:
             self._balance -= subscription_fee
+            print(f"Balance set to {self._balance} after deducting {subscription_fee} for {self._username}")
             print(f"Payment of {subscription_fee} successful! Upgrading {self._username} to Premium User...")
-            user = PremiumUser(self._username, self._balance)
+            if self.db:
+                self.db.update_user_balance(self._username, self._balance)
+            user = PremiumUser(self._username, self._balance, self.db)
             user._transaction_count = self._transaction_count
             user._last_transaction_date = self._last_transaction_date
             return user, True
@@ -133,8 +152,11 @@ class BasicUser(User):
             print("Insufficient balance for Premium subscription! Please add funds.")
             if self.add_balance() and self._balance >= subscription_fee:
                 self._balance -= subscription_fee
+                print(f"Balance set to {self._balance} after deducting {subscription_fee} for {self._username}")
                 print(f"Payment of {subscription_fee} successful! Upgrading {self._username} to Premium User...")
-                user = PremiumUser(self._username, self._balance)
+                if self.db:
+                    self.db.update_user_balance(self._username, self._balance)
+                user = PremiumUser(self._username, self._balance, self.db)
                 user._transaction_count = self._transaction_count
                 user._last_transaction_date = self._last_transaction_date
                 return user, True
@@ -143,41 +165,7 @@ class BasicUser(User):
 
 class PremiumUser(User):
     def can_perform_transaction(self):
-        return True, self  # Unlimited transactions, no prompts
+        return True, self
 
     def get_username(self):
         return self._username
-
-def create_user():
-    username = input("Enter username: ")
-    try:
-        initial_balance = float(input("Enter initial balance: "))
-    except ValueError:
-        print("Invalid balance! Setting to 0.")
-        initial_balance = 0
-
-    print("Choose user tier: 1. Basic 2. Premium")
-    choice = input("Enter choice (1 or 2): ")
-
-    if choice == '1':
-        return BasicUser(username, initial_balance)
-    elif choice == '2':
-        subscription_fee = 1000
-        print(f"Premium subscription requires a payment of {subscription_fee} for a whole year.")
-        if initial_balance >= subscription_fee:
-            adjusted_balance = initial_balance - subscription_fee
-            user = PremiumUser(username, adjusted_balance)
-            print(f"Payment of {subscription_fee} successful! {username} is now a Premium User.")
-            return user
-        else:
-            user = PremiumUser(username, initial_balance)  # Create user to use add_balance
-            print("Insufficient balance for Premium subscription! Please add funds.")
-            if user.add_balance() and user.balance >= subscription_fee:
-                user._balance -= subscription_fee
-                print(f"Payment of {subscription_fee} successful! {username} is now a Premium User.")
-                return user
-            print("Failed to create Premium User due to insufficient balance. Defaulting to Basic User.")
-            return BasicUser(username, initial_balance)
-    else:
-        print("Invalid choice! Defaulting to Basic User.")
-        return BasicUser(username, initial_balance)
