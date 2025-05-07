@@ -11,7 +11,7 @@ This is an advanced Python-based payment system implementing the Model-View-Cont
 
 
 
-`Transaction Types:` Supports Money Transfer, Bill Payment, and Mobile Recharge transactions, with details saved to the database.
+`Transaction Types:` Supports Money Transfer, Bill Payment, and Mobile Recharge transactions, with details saved to                         the database.
 
 
 
@@ -37,44 +37,44 @@ This is an advanced Python-based payment system implementing the Model-View-Cont
 # Project Structure
 
 
-`main.py:` Entry point of the application, coordinating the MVC components.
+1. `main.py:` Entry point of the application, coordinating the MVC components.
 
 
 
-`controllers/:` Contains logic for user creation and transaction processing.
+2. `controllers/:` Contains logic for user creation and transaction processing.
 
 
-    user_controller.py: Handles user creation logic.
+        user_controller.py: Handles user creation logic.
     
 
-    transaction_controller.py: Manages transaction execution and statement saving.
+        transaction_controller.py: Manages transaction execution and statement saving.
 
 
 
-`models/:` Defines the data models and business logic.
+3. `models/:` Defines the data models and business logic.
 
 
-    user.py: Implements the User, BasicUser, and PremiumUser classes with balance management.
+        user.py: Implements the User, BasicUser, and PremiumUser classes with balance management.
 
 
-    payment.py: Handles transaction processing and PIN verification.
+        payment.py: Handles transaction processing and PIN verification.
 
 
-    transaction.py: Defines transaction types (MoneyTransfer, BillPayment, MobileRecharge).
-
-
-
-`views/:` Manages user interface interactions.
-
-
-    ui.py: Provides prompts, menus, and messages for user input/output.
+        transaction.py: Defines transaction types (MoneyTransfer, BillPayment, MobileRecharge).
 
 
 
-`repository/:` Manages database interactions.
+4. `views/:` Manages user interface interactions.
 
 
-    database.py: Implements SQLite database operations (saving users, transactions, PINs).
+        ui.py: Provides prompts, menus, and messages for user input/output.
+
+
+
+5. `repository/:` Manages database interactions.
+
+
+        database.py: Implements SQLite database operations (saving users, transactions, PINs).
     
 
-    __init__.py: Makes repository a Python package.
+        __init__.py: Makes repository a Python package.
