@@ -1,0 +1,1412 @@
+transaction_id,date,type,total_balance,amount,remaining_balance,remarks,user_id,recipient,transaction_mode
+VMTV8F,5/12/2025,Money Transfer,45000,12000,33000,rent money,aryan,john,P2P
+CH8HKU,5/12/2025,Bill Payment,33000,140,32860,momo,aryan,,P2M
+EZO2S7,5/12/2025,Money Transfer,32860,7600,25260,travel fare,aryan,shruti,P2P
+I6HT4Q,5/12/2025,Money Transfer,25260,4500,20760,buy some drinks and beverages for the party,aryan,harry,P2P
+RSVMFI,5/12/2025,Mobile Recharge,20760,100,20660,ntc,aryan,,P2M
+K8IXI8,5/12/2025,Bill Payment,19660,750,18910,john wick ticket for 2 ,aryan,,P2M
+CU4Q9P,5/12/2025,Mobile Recharge,18910,140,18770,ncell topup,aryan,,P2M
+TOOTGD,5/12/2025,Money Transfer,21000,15000,6000,buying products from agricultural farm,aryan,shyam,P2P
+02JM1M,5/12/2025,Bill Payment,38000,25000,13000,flight ticket for 2 (kathmandu to delhi),aryan,,P2M
+3B1MDF,5/12/2025,Money Transfer,55000,23500,31500,rent for 2bhk flat,kush,sanjay,P2P
+M5MFED,5/12/2025,Bill Payment,31500,4300,27200,concert ticket for 4,kush,,P2M
+E3AA0J,5/21/2025,Mobile Recharge,30689,19925,10764,bought mobile data pack,aryan,,P2M
+4DSCZ9,5/18/2025,Money Transfer,18823,1150,17673,gifted cash for birthday,aryan,shruti,P2P
+TWG5EG,5/18/2025,Money Transfer,51146,16773,34373,transferred money to sibling,aryan,priya,P2P
+KP505K,5/19/2025,Money Transfer,34387,696,33691,paid for groceries,aryan,harry,P2P
+PZULK2,5/16/2025,Mobile Recharge,35839,1314,34525,boosted call minutes,aryan,,P2M
+02Y4NU,5/12/2025,Mobile Recharge,58834,11949,46885,monthly recharge,aryan,,P2M
+8TVVM3,5/16/2025,Bill Payment,58184,14325,43859,internet subscription renewal,aryan,,P2M
+U36P93,5/15/2025,Money Transfer,41193,14355,26838,cash sent for urgent need,aryan,john,P2P
+KK1U4Q,5/19/2025,Money Transfer,16602,3786,12816,shared restaurant bill,aryan,neha,P2P
+9IP8RT,5/21/2025,Bill Payment,22971,4305,18666,broadband renewal fee,aryan,,P2M
+EM4CKC,5/17/2025,Bill Payment,26985,11042,15943,internet subscription renewal,aryan,,P2M
+AWJLQ9,5/17/2025,Mobile Recharge,15247,1088,14159,recharged ntc number,aryan,,P2M
+AMFYYF,5/17/2025,Bill Payment,31306,17783,13523,settled credit card bill,aryan,,P2M
+YCH0AW,5/18/2025,Bill Payment,20423,822,19601,water bill payment,aryan,,P2M
+V4L3SV,5/20/2025,Bill Payment,48027,13556,34471,insurance premium payment,aryan,,P2M
+LRVQYW,5/19/2025,Mobile Recharge,21609,5681,15928,recharged for relative,aryan,,P2M
+XYEFR2,5/22/2025,Bill Payment,45464,19372,26092,insurance premium payment,aryan,,P2M
+2ZZDO5,5/21/2025,Mobile Recharge,24468,16488,7980,monthly recharge,aryan,,P2M
+JDB1YG,5/20/2025,Bill Payment,46770,15088,31682,water bill payment,aryan,,P2M
+UO8514,5/20/2025,Mobile Recharge,55088,12980,42108,recharged ntc number,aryan,,P2M
+QRZK21,5/21/2025,Money Transfer,8000,3775,4225,sent rent to landlord,aryan,aditya,P2P
+T8RIYK,5/21/2025,Mobile Recharge,23202,9604,13598,recharged ntc number,aryan,,P2M
+9H49W4,5/20/2025,Mobile Recharge,29717,5205,24512,quick top-up done,aryan,,P2M
+C6VNFL,5/19/2025,Mobile Recharge,22700,3243,19457,bought mobile data pack,aryan,,P2M
+YRU128,5/20/2025,Mobile Recharge,45278,7224,38054,quick top-up done,aryan,,P2M
+RN33YX,5/17/2025,Mobile Recharge,43648,17309,26339,topped up prepaid number,aryan,,P2M
+9J1GSA,5/17/2025,Bill Payment,39922,19764,20158,broadband renewal fee,aryan,,P2M
+3WW0M1,5/17/2025,Money Transfer,56194,16762,39432,transferred money to sibling,aryan,harry,P2P
+X25LUD,5/15/2025,Money Transfer,58767,10504,48263,sent rent to landlord,aryan,shruti,P2P
+JRC6L2,5/19/2025,Money Transfer,53725,5382,48343,paid for groceries,aryan,rohan,P2P
+LRB0GM,5/12/2025,Bill Payment,23620,1295,22325,settled credit card bill,aryan,,P2M
+CZCMIG,5/13/2025,Bill Payment,20313,14420,5893,electricity bill paid,aryan,,P2M
+V5IIIA,5/21/2025,Mobile Recharge,22461,3658,18803,monthly recharge,aryan,,P2M
+XSR66N,5/19/2025,Bill Payment,37518,12740,24778,internet subscription renewal,aryan,,P2M
+3S0OOQ,5/12/2025,Bill Payment,24531,13695,10836,water bill payment,aryan,,P2M
+12KZY2,5/19/2025,Mobile Recharge,34748,3280,31468,recharged ntc number,aryan,,P2M
+GO28JT,5/20/2025,Mobile Recharge,58033,8428,49605,monthly recharge,aryan,,P2M
+4SE4GO,5/12/2025,Bill Payment,10581,9308,1273,electricity bill paid,aryan,,P2M
+GFH14R,5/13/2025,Bill Payment,60095,19538,40557,internet subscription renewal,aryan,,P2M
+TPTMO9,5/17/2025,Bill Payment,21350,10451,10899,electricity bill paid,aryan,,P2M
+F2NPSB,5/13/2025,Money Transfer,62751,15081,47670,shared restaurant bill,aryan,tanya,P2P
+J8M5L4,5/14/2025,Mobile Recharge,12795,2602,10193,monthly recharge,aryan,,P2M
+N1FOLM,5/17/2025,Mobile Recharge,30394,8842,21552,activated unlimited plan,aryan,,P2M
+7R00WO,5/17/2025,Mobile Recharge,57660,15642,42018,bought mobile data pack,aryan,,P2M
+IWIN3A,5/14/2025,Mobile Recharge,41146,395,40751,topped up prepaid number,aryan,,P2M
+Y1GWXY,5/15/2025,Bill Payment,17262,11463,5799,internet subscription renewal,aryan,,P2M
+2D5R64,5/14/2025,Bill Payment,19637,9043,10594,electricity bill paid,aryan,,P2M
+E2BCZX,5/21/2025,Mobile Recharge,58355,11393,46962,boosted call minutes,aryan,,P2M
+IJ28L5,5/14/2025,Money Transfer,42260,17579,24681,reimbursed travel expense,aryan,rohan,P2P
+EH84QU,5/20/2025,Mobile Recharge,14846,2032,12814,monthly recharge,aryan,,P2M
+PO3BVU,5/20/2025,Money Transfer,48157,17126,31031,paid for groceries,aryan,sahil,P2P
+LEJERP,5/19/2025,Bill Payment,36722,5381,31341,paid municipal tax,aryan,,P2M
+SC0GJX,5/16/2025,Mobile Recharge,46301,18344,27957,boosted call minutes,aryan,,P2M
+72XZO7,5/13/2025,Money Transfer,58757,14609,44148,sent rent to landlord,aryan,aditya,P2P
+GN5WUO,5/22/2025,Money Transfer,55783,10244,45539,sent rent to landlord,aryan,neha,P2P
+PFLNBR,5/12/2025,Mobile Recharge,61696,19216,42480,quick top-up done,aryan,,P2M
+8LNFQ3,5/21/2025,Money Transfer,33691,12515,21176,monthly allowance transfer,aryan,harry,P2P
+BOTAEJ,5/16/2025,Money Transfer,63498,14221,49277,loan repayment to friend,aryan,shruti,P2P
+1VNWNT,5/14/2025,Mobile Recharge,3155,2076,1079,activated unlimited plan,aryan,,P2M
+NSJH7Y,5/16/2025,Mobile Recharge,31607,12882,18725,added mobile credit,aryan,,P2M
+B7R1ZE,5/21/2025,Mobile Recharge,15260,9810,5450,boosted call minutes,aryan,,P2M
+EUB9XX,5/17/2025,Bill Payment,12392,3200,9192,monthly EMI paid,aryan,,P2M
+7E0LMC,5/17/2025,Money Transfer,23835,8111,15724,loan repayment to friend,aryan,priya,P2P
+R82TT2,5/20/2025,Mobile Recharge,15355,5650,9705,boosted call minutes,aryan,,P2M
+QV5NSP,5/20/2025,Mobile Recharge,60208,16936,43272,recharged ntc number,aryan,,P2M
+BBJTUI,5/18/2025,Money Transfer,59073,15745,43328,sent rent to landlord,aryan,sahil,P2P
+RTWI47,5/14/2025,Money Transfer,24650,18066,6584,cash sent for urgent need,aryan,shruti,P2P
+YP39BQ,5/16/2025,Bill Payment,38567,15498,23069,electricity bill paid,aryan,,P2M
+8XP883,5/12/2025,Mobile Recharge,40711,14806,25905,monthly recharge,aryan,,P2M
+F087EF,5/14/2025,Money Transfer,11461,1034,10427,paid for groceries,aryan,sahil,P2P
+XLFMGG,5/20/2025,Bill Payment,38253,2601,35652,settled credit card bill,aryan,,P2M
+GSN5BS,5/16/2025,Money Transfer,62831,12940,49891,transferred money to sibling,aryan,john,P2P
+ITHCHV,5/17/2025,Mobile Recharge,10051,5457,4594,topped up prepaid number,aryan,,P2M
+2B922D,5/21/2025,Mobile Recharge,20828,8128,12700,topped up prepaid number,aryan,,P2M
+P7ELW3,5/13/2025,Bill Payment,30643,1787,28856,gas connection fee,aryan,,P2M
+TUGWSU,5/14/2025,Money Transfer,35120,17207,17913,gifted cash for birthday,aryan,divya,P2P
+FCHT53,5/20/2025,Bill Payment,52355,13387,38968,internet subscription renewal,aryan,,P2M
+WBA7N1,5/22/2025,Mobile Recharge,11045,4217,6828,recharged ntc number,aryan,,P2M
+8P767Z,5/17/2025,Mobile Recharge,33990,13062,20928,activated unlimited plan,aryan,,P2M
+TRGWLJ,5/19/2025,Bill Payment,18767,13862,4905,electricity bill paid,aryan,,P2M
+A4PA4N,5/20/2025,Bill Payment,56001,9579,46422,settled credit card bill,aryan,,P2M
+KW6QUU,5/15/2025,Money Transfer,37100,1462,35638,cash sent for urgent need,aryan,harry,P2P
+L2KTE0,5/16/2025,Bill Payment,20145,15710,4435,internet subscription renewal,aryan,,P2M
+ZFX0GY,5/17/2025,Bill Payment,19716,13076,6640,water bill payment,aryan,,P2M
+Z5MH1P,5/19/2025,Bill Payment,13361,11018,2343,monthly EMI paid,aryan,,P2M
+1N9VFX,5/20/2025,Bill Payment,24005,9848,14157,monthly EMI paid,aryan,,P2M
+PJ3JSZ,5/18/2025,Money Transfer,28238,15560,12678,cash sent for urgent need,aryan,tanya,P2P
+XL21R8,5/22/2025,Mobile Recharge,35474,1456,34018,bought mobile data pack,aryan,,P2M
+IEAY0B,5/15/2025,Money Transfer,9282,7387,1895,shared restaurant bill,aryan,neha,P2P
+6QVES9,5/13/2025,Money Transfer,18080,10809,7271,reimbursed travel expense,aryan,neha,P2P
+7HRIEL,5/16/2025,Mobile Recharge,28815,14423,14392,boosted call minutes,aryan,,P2M
+C99Z2X,5/22/2025,Bill Payment,22376,4664,17712,broadband renewal fee,aryan,,P2M
+2J3EY3,5/17/2025,Mobile Recharge,52352,12693,39659,boosted call minutes,aryan,,P2M
+U1WX8S,5/18/2025,Money Transfer,40676,10368,30308,cash sent for urgent need,aryan,aditya,P2P
+IVL4WK,5/16/2025,Money Transfer,13602,10869,2733,paid for groceries,aryan,priya,P2P
+YN9B1G,5/21/2025,Mobile Recharge,26382,14071,12311,added mobile credit,aryan,,P2M
+QA1FQN,5/22/2025,Bill Payment,15725,8133,7592,paid municipal tax,aryan,,P2M
+JG3EEY,5/13/2025,Bill Payment,49541,17429,32112,settled credit card bill,aryan,,P2M
+6B7XJA,5/20/2025,Bill Payment,28278,7817,20461,electricity bill paid,aryan,,P2M
+4H12Z9,5/22/2025,Money Transfer,48325,4560,43765,sent rent to landlord,aryan,rohan,P2P
+63RMIL,12/13/2024,Bill Payment,52103,17631,34472,municipal tax,rahul,,P2M
+KYKLNI,11/22/2024,Mobile Recharge,21528,253,21275,data pack,aryan,,P2M
+K45KST,10/6/2024,Mobile Recharge,14268,488,13780,international call pack,sita,,P2M
+N0HZ98,5/17/2024,Money Transfer,40124,14830,25294,payment for groceries,sita,ravi,P2P
+DWXWFJ,9/5/2024,Mobile Recharge,8683,266,8417,combo pack,john,,P2M
+M8FZLF,3/12/2025,Mobile Recharge,11535,82,11453,balance refill,john,,P2M
+C725T2,10/5/2024,Bill Payment,23342,14069,9273,electricity bill,aryan,,P2M
+H44177,7/25/2024,Money Transfer,55276,10827,44449,returned borrowed money,john,ravi,P2P
+P679ZV,9/25/2024,Money Transfer,56426,10925,45501,emergency cash,aryan,sita,P2P
+BSUXUI,3/6/2025,Money Transfer,19769,17656,2113,payment for groceries,john,arjun,P2P
+MBWZ4C,10/16/2024,Money Transfer,22730,16375,6355,college fees,rahul,rahul,P2P
+B09Y4C,1/19/2025,Money Transfer,39021,17218,21803,loan repayment,rahul,rahul,P2P
+UK3U6F,8/28/2024,Money Transfer,30934,11610,19324,shared rent,john,ravi,P2P
+PZTMCR,4/19/2025,Money Transfer,42281,11126,31155,emergency cash,aryan,arjun,P2P
+ED1OQ8,11/14/2024,Mobile Recharge,39262,272,38990,international call pack,mira,,P2M
+GDYXQG,7/14/2024,Bill Payment,47973,10051,37922,electricity bill,john,,P2M
+QV4TZ6,1/22/2025,Money Transfer,60219,17959,42260,college fees,aryan,mira,P2P
+MLABMY,2/27/2025,Mobile Recharge,21418,66,21352,combo pack,mira,,P2M
+4YMT7Q,12/11/2024,Mobile Recharge,45887,442,45445,international call pack,rahul,,P2M
+JWP9WI,11/12/2024,Mobile Recharge,20328,435,19893,recharged ncell,john,,P2M
+0L9PQD,11/5/2024,Mobile Recharge,39472,126,39346,monthly mobile recharge,john,,P2M
+B5SRGM,7/2/2024,Bill Payment,39330,7672,31658,monthly bill,sita,,P2M
+BVTXEV,2/7/2025,Bill Payment,6662,1801,4861,TV subscription,mira,,P2M
+0HK349,1/5/2025,Bill Payment,46605,8107,38498,internet recharge,rahul,,P2M
+BS1AJW,5/10/2025,Mobile Recharge,16659,491,16168,roaming pack,rahul,,P2M
+3U44BI,5/2/2025,Money Transfer,60144,15205,44939,transfer to friend,sita,sita,P2P
+IB2EK5,2/11/2025,Money Transfer,26111,17855,8256,transfer to friend,sita,neha,P2P
+AIJOD6,8/1/2024,Mobile Recharge,13250,386,12864,international call pack,rahul,,P2M
+2OOKIS,11/5/2024,Money Transfer,37612,8093,29519,medical expense,sita,john,P2P
+BPBXNB,12/10/2024,Money Transfer,13233,572,12661,emergency cash,john,rahul,P2P
+GKLZ9S,5/11/2025,Mobile Recharge,33820,195,33625,top-up ntc,sita,,P2M
+ZHJZB4,3/4/2025,Bill Payment,29757,6602,23155,online subscription,rahul,,P2M
+360XJM,5/1/2025,Bill Payment,58578,13043,45535,insurance premium,john,,P2M
+ZEWN9L,6/9/2024,Bill Payment,28816,14395,14421,cable bill,mira,,P2M
+R8RN65,3/17/2025,Mobile Recharge,47294,51,47243,roaming pack,aryan,,P2M
+8GALJM,10/15/2024,Mobile Recharge,14332,331,14001,top-up ntc,rahul,,P2M
+22NBOP,1/5/2025,Bill Payment,13260,2907,10353,TV subscription,sita,,P2M
+JWKAME,8/1/2024,Bill Payment,39880,8920,30960,internet recharge,sita,,P2M
+84TP0I,11/4/2024,Bill Payment,22902,17612,5290,municipal tax,john,,P2M
+B12PDV,4/8/2025,Bill Payment,64037,15295,48742,house rent payment,aryan,,P2M
+RRCA1X,5/15/2024,Bill Payment,13341,6523,6818,cable bill,mira,,P2M
+G4J1J4,2/17/2025,Mobile Recharge,21552,182,21370,monthly mobile recharge,rahul,,P2M
+ND7QQZ,5/22/2024,Mobile Recharge,43172,313,42859,top-up ntc,john,,P2M
+29M75X,1/21/2025,Bill Payment,37384,8064,29320,internet recharge,aryan,,P2M
+19GRO2,1/5/2025,Mobile Recharge,27981,369,27612,voice call pack,aryan,,P2M
+VZJN71,1/30/2025,Money Transfer,58547,17188,41359,loan repayment,sita,ravi,P2P
+W3JFJ1,1/9/2025,Bill Payment,31586,4895,26691,online subscription,mira,,P2M
+CKBIUJ,10/20/2024,Mobile Recharge,13485,134,13351,data pack,sita,,P2M
+HRIGTF,2/6/2025,Mobile Recharge,40738,402,40336,roaming pack,sita,,P2M
+A9IGK9,4/26/2025,Bill Payment,31179,779,30400,TV subscription,aryan,,P2M
+GXMWVX,6/30/2024,Bill Payment,26626,18810,7816,online subscription,rahul,,P2M
+D3OB9I,7/8/2024,Mobile Recharge,14475,498,13977,data pack,sita,,P2M
+40QPFX,6/26/2024,Mobile Recharge,33315,258,33057,balance refill,sita,,P2M
+TS94D8,12/15/2024,Money Transfer,48649,15855,32794,college fees,aryan,arjun,P2P
+HPG97E,11/10/2024,Mobile Recharge,23609,383,23226,data pack,aryan,,P2M
+USM4VZ,6/21/2024,Bill Payment,39436,5742,33694,insurance premium,john,,P2M
+SSB5W3,3/29/2025,Money Transfer,17692,3053,14639,transfer to friend,aryan,rahul,P2P
+DJQH0I,4/26/2025,Bill Payment,40249,4137,36112,electricity bill,sita,,P2M
+7PNIRR,10/3/2024,Bill Payment,66237,17045,49192,water utility,sita,,P2M
+BE7KDC,5/20/2024,Bill Payment,22615,8233,14382,insurance premium,rahul,,P2M
+L2U6OH,1/18/2025,Money Transfer,10932,4217,6715,transfer to friend,mira,arjun,P2P
+7B689N,4/6/2025,Money Transfer,47068,19137,27931,birthday gift,rahul,sita,P2P
+2WOWGY,11/29/2024,Mobile Recharge,17433,81,17352,recharged ncell,rahul,,P2M
+BTAM33,4/29/2025,Mobile Recharge,40959,316,40643,international call pack,rahul,,P2M
+Q7HA1Z,8/31/2024,Mobile Recharge,48510,411,48099,balance refill,john,,P2M
+ZPJOVU,5/25/2024,Mobile Recharge,32794,455,32339,top-up ntc,rahul,,P2M
+77CNYU,12/26/2024,Mobile Recharge,41431,50,41381,data pack,rahul,,P2M
+2EGE3S,4/9/2025,Bill Payment,39285,18949,20336,municipal tax,mira,,P2M
+85P2XV,3/13/2025,Money Transfer,41569,808,40761,emergency cash,mira,rahul,P2P
+5HYSFR,12/15/2024,Mobile Recharge,47542,453,47089,roaming pack,sita,,P2M
+RO1ZJO,11/4/2024,Bill Payment,54581,16670,37911,electricity bill,sita,,P2M
+GF7HE4,12/17/2024,Mobile Recharge,40026,367,39659,international call pack,aryan,,P2M
+3Y0PX0,4/27/2025,Bill Payment,61323,13317,48006,house rent payment,sita,,P2M
+641BD5,3/17/2025,Money Transfer,31565,10466,21099,college fees,aryan,mira,P2P
+GIKEER,9/24/2024,Bill Payment,45901,10800,35101,municipal tax,sita,,P2M
+D5MW5N,10/15/2024,Bill Payment,18107,8466,9641,TV subscription,mira,,P2M
+HZ15LW,3/22/2025,Mobile Recharge,10564,124,10440,top-up ntc,aryan,,P2M
+8OC80Z,12/5/2024,Mobile Recharge,12760,382,12378,data pack,john,,P2M
+SVZDGA,12/27/2024,Bill Payment,39337,15810,23527,TV subscription,mira,,P2M
+1DFG0U,2/27/2025,Bill Payment,55101,14310,40791,electricity bill,rahul,,P2M
+4ZF7VG,10/4/2024,Mobile Recharge,1746,378,1368,data pack,john,,P2M
+EP6JBZ,8/28/2024,Mobile Recharge,7404,291,7113,roaming pack,rahul,,P2M
+M5RUU4,3/10/2025,Mobile Recharge,29754,285,29469,monthly mobile recharge,rahul,,P2M
+4BQ9SD,9/22/2024,Money Transfer,34319,16477,17842,transfer to friend,john,arjun,P2P
+A8RU9A,5/10/2025,Mobile Recharge,23821,321,23500,recharged ncell,rahul,,P2M
+PN84A2,4/18/2025,Money Transfer,22609,8403,14206,payment for groceries,rahul,neha,P2P
+G7ORGD,2/25/2025,Mobile Recharge,20586,435,20151,data pack,john,,P2M
+AFX3ED,9/6/2024,Mobile Recharge,16300,433,15867,data pack,rahul,,P2M
+T6V2M6,5/17/2024,Bill Payment,22012,11964,10048,electricity bill,sita,,P2M
+KPYSZO,2/18/2025,Bill Payment,18989,5643,13346,house rent payment,sita,,P2M
+6YP7PD,10/16/2024,Bill Payment,12483,10729,1754,internet recharge,aryan,,P2M
+2N9CEM,11/1/2024,Money Transfer,47747,18558,29189,college fees,sita,neha,P2P
+IQ8CCA,12/28/2024,Bill Payment,14602,8469,6133,house rent payment,sita,,P2M
+N9MMRJ,8/19/2024,Money Transfer,10163,8776,1387,college fees,mira,sita,P2P
+HMDJ1G,9/6/2024,Bill Payment,12401,10494,1907,water utility,rahul,,P2M
+TSVEFC,2/18/2025,Money Transfer,59004,17854,41150,returned borrowed money,rahul,john,P2P
+OBU4Y4,6/30/2024,Bill Payment,47662,14271,33391,water utility,aryan,,P2M
+UCS42G,12/20/2024,Mobile Recharge,46309,124,46185,roaming pack,mira,,P2M
+S6GAUI,2/24/2025,Bill Payment,51369,6338,45031,internet recharge,sita,,P2M
+3B4RYS,7/8/2024,Bill Payment,7425,3074,4351,TV subscription,rahul,,P2M
+U1N00G,7/20/2024,Mobile Recharge,2191,182,2009,voice call pack,aryan,,P2M
+EGMUUP,5/19/2024,Money Transfer,54772,10390,44382,college fees,mira,john,P2P
+MPL11K,8/1/2024,Money Transfer,40029,11805,28224,transfer to friend,rahul,rahul,P2P
+J84YLZ,12/1/2024,Money Transfer,20043,1924,18119,medical expense,john,mira,P2P
+199C5P,3/11/2025,Money Transfer,4640,3083,1557,returned borrowed money,sita,sita,P2P
+5LEE8Y,8/29/2024,Mobile Recharge,31495,366,31129,voice call pack,john,,P2M
+NNV2K9,9/29/2024,Mobile Recharge,31325,230,31095,monthly mobile recharge,sita,,P2M
+PG9WX3,2/9/2025,Mobile Recharge,19513,90,19423,SMS bundle,sita,,P2M
+99FEUW,10/8/2024,Mobile Recharge,44819,195,44624,SMS bundle,john,,P2M
+8N9KWG,4/17/2025,Money Transfer,9913,5971,3942,transfer to friend,john,sita,P2P
+PYY6ZU,10/14/2024,Money Transfer,14949,12581,2368,college fees,john,sita,P2P
+F6NQ3P,10/4/2024,Money Transfer,58822,16215,42607,emergency cash,john,john,P2P
+H74B4X,5/1/2025,Mobile Recharge,17822,423,17399,top-up ntc,rahul,,P2M
+Q40T59,9/15/2024,Money Transfer,14428,1305,13123,birthday gift,mira,arjun,P2P
+J30265,10/6/2024,Money Transfer,28901,18118,10783,medical expense,mira,arjun,P2P
+2ZSHLS,10/31/2024,Bill Payment,42291,13480,28811,internet recharge,sita,,P2M
+8LSTZT,11/26/2024,Mobile Recharge,14264,139,14125,balance refill,mira,,P2M
+VID5PX,10/22/2024,Mobile Recharge,46916,229,46687,SMS bundle,rahul,,P2M
+SLPUGR,12/13/2024,Bill Payment,36756,19388,17368,insurance premium,mira,,P2M
+4ZSXID,1/22/2025,Money Transfer,51948,16688,35260,loan repayment,john,arjun,P2P
+DH8HBU,7/19/2024,Money Transfer,35842,3963,31879,medical expense,mira,neha,P2P
+UFCUJZ,11/21/2024,Mobile Recharge,28932,242,28690,top-up ntc,rahul,,P2M
+D9EXLA,2/21/2025,Mobile Recharge,27260,426,26834,roaming pack,mira,,P2M
+SENU25,11/16/2024,Mobile Recharge,35442,487,34955,monthly mobile recharge,aryan,,P2M
+K3SCM2,9/11/2024,Mobile Recharge,28294,460,27834,roaming pack,sita,,P2M
+MY2NAA,10/29/2024,Money Transfer,13601,3893,9708,emergency cash,sita,john,P2P
+YK9OI1,9/19/2024,Mobile Recharge,42233,212,42021,voice call pack,mira,,P2M
+MRP331,6/8/2024,Mobile Recharge,31546,210,31336,balance refill,aryan,,P2M
+Z8BCDP,5/29/2024,Money Transfer,28517,1443,27074,returned borrowed money,john,john,P2P
+MEPWCL,4/3/2025,Bill Payment,12837,2124,10713,municipal tax,sita,,P2M
+7L132D,7/9/2024,Bill Payment,26622,18586,8036,TV subscription,john,,P2M
+4YJWCD,12/27/2024,Bill Payment,46757,3622,43135,insurance premium,mira,,P2M
+DNH8Y8,10/13/2024,Money Transfer,21350,6375,14975,birthday gift,mira,arjun,P2P
+G94UAL,12/19/2024,Bill Payment,28328,818,27510,municipal tax,sita,,P2M
+LKCRPE,11/2/2024,Mobile Recharge,19370,280,19090,recharged ncell,aryan,,P2M
+QR8S1A,11/6/2024,Bill Payment,66830,18842,47988,TV subscription,aryan,,P2M
+PB9YLX,7/20/2024,Bill Payment,34612,13679,20933,monthly bill,mira,,P2M
+TXBY3D,2/27/2025,Money Transfer,47643,4159,43484,college fees,mira,arjun,P2P
+3LNFR5,11/4/2024,Bill Payment,48132,2031,46101,municipal tax,rahul,,P2M
+N75AB4,7/22/2024,Mobile Recharge,30029,254,29775,combo pack,aryan,,P2M
+Q6NQKK,3/23/2025,Mobile Recharge,48034,64,47970,SMS bundle,mira,,P2M
+WDVACK,5/11/2025,Mobile Recharge,28174,100,28074,top-up ntc,sita,,P2M
+DSK2RZ,8/27/2024,Money Transfer,20900,9053,11847,college fees,rahul,arjun,P2P
+T9WPUY,7/14/2024,Money Transfer,48299,10093,38206,medical expense,aryan,neha,P2P
+9SCL66,1/6/2025,Money Transfer,31429,6585,24844,college fees,sita,ravi,P2P
+TDWJQZ,9/29/2024,Bill Payment,62975,14472,48503,monthly bill,mira,,P2M
+6PH4AO,1/14/2025,Mobile Recharge,27281,412,26869,voice call pack,sita,,P2M
+TMSB4I,1/4/2025,Money Transfer,3299,320,2979,birthday gift,mira,john,P2P
+NJKTGV,3/6/2025,Mobile Recharge,15186,303,14883,balance refill,mira,,P2M
+CFDG5Q,4/13/2025,Bill Payment,27381,8415,18966,online subscription,john,,P2M
+YVVU6N,12/23/2024,Bill Payment,14189,6782,7407,insurance premium,sita,,P2M
+LZ4ENF,7/6/2024,Mobile Recharge,36936,163,36773,voice call pack,sita,,P2M
+6ZQO3T,11/11/2024,Mobile Recharge,37102,305,36797,balance refill,john,,P2M
+TB3RT7,7/10/2024,Bill Payment,48598,6009,42589,online subscription,john,,P2M
+2A7L7Q,2/14/2025,Bill Payment,18903,9395,9508,municipal tax,sita,,P2M
+6NLM43,11/5/2024,Mobile Recharge,15632,285,15347,monthly mobile recharge,sita,,P2M
+UZI6HG,4/2/2025,Mobile Recharge,3164,401,2763,monthly mobile recharge,rahul,,P2M
+UJZL88,6/13/2024,Bill Payment,18859,17508,1351,monthly bill,aryan,,P2M
+NTDSLJ,11/21/2024,Mobile Recharge,7795,352,7443,international call pack,john,,P2M
+ZD0UIE,1/14/2025,Mobile Recharge,4036,427,3609,top-up ntc,rahul,,P2M
+6H8KGW,4/5/2025,Bill Payment,65694,15952,49742,online subscription,sita,,P2M
+DC92DH,5/3/2025,Mobile Recharge,42162,263,41899,combo pack,sita,,P2M
+MOL5O8,8/30/2024,Bill Payment,56390,17403,38987,municipal tax,sita,,P2M
+5C4OWR,8/13/2024,Money Transfer,24715,5991,18724,loan repayment,rahul,ravi,P2P
+JRJ1WN,4/19/2025,Money Transfer,41969,8920,33049,returned borrowed money,john,mira,P2P
+4PSG9K,8/8/2024,Money Transfer,34200,1861,32339,college fees,john,sita,P2P
+EW5TLJ,11/25/2024,Money Transfer,25492,12226,13266,sent for dinner,sita,ravi,P2P
+X3VGPW,8/16/2024,Bill Payment,10505,575,9930,municipal tax,sita,,P2M
+I8XNJT,4/11/2025,Bill Payment,34570,18786,15784,municipal tax,aryan,,P2M
+AISAAL,5/24/2024,Bill Payment,47104,8483,38621,water utility,mira,,P2M
+OLROSQ,9/14/2024,Bill Payment,33358,19470,13888,internet recharge,mira,,P2M
+UM6BPJ,2/4/2025,Bill Payment,31899,1957,29942,monthly bill,aryan,,P2M
+9F2GDJ,7/30/2024,Money Transfer,38947,5562,33385,returned borrowed money,aryan,ravi,P2P
+GTUWGW,9/11/2024,Money Transfer,53284,9141,44143,transfer to friend,rahul,mira,P2P
+5HXK3N,2/27/2025,Bill Payment,31968,5874,26094,house rent payment,rahul,,P2M
+14NMAZ,2/20/2025,Mobile Recharge,16210,144,16066,monthly mobile recharge,mira,,P2M
+SQS8KE,5/16/2024,Mobile Recharge,23201,131,23070,monthly mobile recharge,mira,,P2M
+ZAXPIM,12/16/2024,Bill Payment,34416,11153,23263,internet recharge,rahul,,P2M
+8SLPZL,8/13/2024,Mobile Recharge,40561,174,40387,balance refill,sita,,P2M
+N8D78X,8/20/2024,Bill Payment,34643,3989,30654,monthly bill,rahul,,P2M
+Y2QDDG,11/21/2024,Money Transfer,41432,14894,26538,loan repayment,john,arjun,P2P
+CMZNDX,1/19/2025,Mobile Recharge,18021,119,17902,recharged ncell,rahul,,P2M
+IK45LZ,3/30/2025,Bill Payment,46632,8197,38435,insurance premium,aryan,,P2M
+OQ3DE0,11/6/2024,Bill Payment,20762,3949,16813,electricity bill,mira,,P2M
+GCDCRJ,10/21/2024,Money Transfer,41319,17944,23375,sent for dinner,john,rahul,P2P
+SA0NTP,1/10/2025,Bill Payment,24757,16615,8142,internet recharge,sita,,P2M
+DIZM64,7/27/2024,Mobile Recharge,17221,100,17121,monthly mobile recharge,rahul,,P2M
+PC8N9L,11/8/2024,Bill Payment,43312,711,42601,cable bill,aryan,,P2M
+RFQ6B3,5/16/2024,Mobile Recharge,50241,248,49993,voice call pack,mira,,P2M
+K7M7G3,6/24/2024,Bill Payment,35010,6878,28132,internet recharge,john,,P2M
+8DYPIJ,12/2/2024,Bill Payment,41192,1456,39736,monthly bill,sita,,P2M
+RFQS2Z,6/11/2024,Bill Payment,15654,3204,12450,cable bill,mira,,P2M
+WTYIX4,11/14/2024,Bill Payment,65484,17514,47970,insurance premium,john,,P2M
+P893AC,10/2/2024,Money Transfer,54847,8098,46749,transfer to friend,john,mira,P2P
+RS75OG,6/10/2024,Money Transfer,30093,17517,12576,payment for groceries,aryan,rahul,P2P
+703GLM,5/14/2025,Bill Payment,38394,11745,26649,house rent payment,sita,,P2M
+C220I7,2/23/2025,Bill Payment,52227,13982,38245,house rent payment,rahul,,P2M
+R02890,10/8/2024,Bill Payment,26838,5803,21035,house rent payment,rahul,,P2M
+SNAVLH,10/15/2024,Mobile Recharge,16549,61,16488,top-up ntc,aryan,,P2M
+ZKJ8DM,8/3/2024,Money Transfer,10711,2009,8702,returned borrowed money,rahul,rahul,P2P
+AIJS4L,5/13/2025,Mobile Recharge,38239,83,38156,monthly plan activation,ravi,,P2M
+ZB274J,5/7/2025,Mobile Recharge,5110,144,4966,daily voice pack,saloni,,P2M
+YIL2I6,5/2/2025,Mobile Recharge,5032,292,4740,prepaid balance refill,shruti,,P2M
+A00EBY,4/20/2025,Money Transfer,5673,2644,3029,split dinner cost with shruti,shruti,shruti,P2P
+PUVBEO,4/20/2025,Money Transfer,21258,3975,17283,contribution for trip to saloni,shruti,saloni,P2P
+0PRY36,5/6/2025,Mobile Recharge,20072,179,19893,daily voice pack,john,,P2M
+WZ666O,5/9/2025,Money Transfer,13288,5243,8045,monthly allowance for john,harry,john,P2P
+MU1PAP,4/18/2025,Mobile Recharge,48749,67,48682,monthly plan activation,shruti,,P2M
+Y8QD4M,5/3/2025,Bill Payment,34207,1817,32390,internet subscription,ravi,,P2M
+KOR7ME,4/25/2025,Bill Payment,46126,8375,37751,settled water bill,saloni,,P2M
+1EZDID,4/20/2025,Bill Payment,26046,9909,16137,monthly DTH recharge,john,,P2M
+0R7MWD,4/29/2025,Bill Payment,23463,4822,18641,monthly DTH recharge,saloni,,P2M
+GM1Z1T,4/23/2025,Bill Payment,31841,11846,19995,monthly DTH recharge,aryan,,P2M
+V8RNJ7,4/14/2025,Mobile Recharge,4847,327,4520,mobile pack renewal,shruti,,P2M
+EBR2XL,4/19/2025,Money Transfer,12163,3085,9078,contribution for trip to john,saloni,john,P2P
+Z3JE6K,5/7/2025,Mobile Recharge,46966,93,46873,ntc top-up,neha,,P2M
+KR0XRG,5/8/2025,Money Transfer,9611,2951,6660,sent rent to harry,neha,harry,P2P
+3GCYXB,4/19/2025,Mobile Recharge,37369,384,36985,monthly plan activation,shruti,,P2M
+XJFA8U,4/30/2025,Bill Payment,44770,4381,40389,paid society maintenance,shruti,,P2M
+8HOQ37,5/11/2025,Money Transfer,30394,11812,18582,monthly allowance for harry,neha,harry,P2P
+W4QTHP,4/17/2025,Money Transfer,20634,13906,6728,shared expenses with ravi,aryan,ravi,P2P
+UBMEXT,5/13/2025,Mobile Recharge,33184,206,32978,mobile pack renewal,john,,P2M
+W37FV2,5/5/2025,Bill Payment,30091,12348,17743,cleared gas bill,saloni,,P2M
+RAZCKL,5/14/2025,Money Transfer,8500,13594,-5094,paid back to ravi,harry,ravi,P2P
+QHZ3MH,4/18/2025,Mobile Recharge,49356,239,49117,ntc top-up,john,,P2M
+S4K8B6,5/12/2025,Bill Payment,33475,4325,29150,paid electricity bill,harry,,P2M
+5RT2M6,4/19/2025,Bill Payment,21569,6561,15008,monthly DTH recharge,john,,P2M
+89O5PM,5/9/2025,Bill Payment,46216,9841,36375,property tax payment,harry,,P2M
+UGYFFW,4/25/2025,Money Transfer,12939,11897,1042,split dinner cost with harry,shruti,harry,P2P
+JS7B0Y,4/26/2025,Money Transfer,12546,6395,6151,split dinner cost with shruti,ravi,shruti,P2P
+7OQJG6,4/23/2025,Mobile Recharge,11197,142,11055,prepaid balance refill,aryan,,P2M
+CSKJ3T,4/30/2025,Money Transfer,12966,3946,9020,loan repayment to ravi,saloni,ravi,P2P
+L9E70B,5/14/2025,Mobile Recharge,43684,322,43362,daily voice pack,shruti,,P2M
+9RMR7D,5/11/2025,Bill Payment,28519,1580,26939,paid electricity bill,saloni,,P2M
+X3RAL7,5/6/2025,Mobile Recharge,46924,89,46835,daily voice pack,aryan,,P2M
+KB06E9,5/9/2025,Money Transfer,45984,5225,40759,sent rent to neha,saloni,neha,P2P
+JG5VB2,4/16/2025,Money Transfer,15969,4492,11477,monthly allowance for shruti,harry,shruti,P2P
+P9JJI5,4/29/2025,Mobile Recharge,48930,297,48633,prepaid balance refill,harry,,P2M
+ONKZJU,4/17/2025,Bill Payment,24833,3546,21287,settled water bill,john,,P2M
+0CTVHU,5/9/2025,Bill Payment,28143,7965,20178,monthly DTH recharge,saloni,,P2M
+76B1TU,4/14/2025,Bill Payment,48643,11637,37006,property tax payment,aryan,,P2M
+YNV7LV,4/16/2025,Money Transfer,46569,2206,44363,gift money to harry,harry,harry,P2P
+49F96N,5/5/2025,Bill Payment,36236,2082,34154,cleared gas bill,john,,P2M
+TCY7QZ,4/17/2025,Mobile Recharge,4130,202,3928,ncell data recharge,saloni,,P2M
+2TDCIN,4/16/2025,Mobile Recharge,18823,209,18614,prepaid balance refill,neha,,P2M
+R0416V,4/21/2025,Mobile Recharge,15054,470,14584,monthly plan activation,john,,P2M
+PUANRW,4/19/2025,Bill Payment,47096,4120,42976,paid electricity bill,neha,,P2M
+BTDN2J,4/27/2025,Mobile Recharge,37081,89,36992,ncell data recharge,aryan,,P2M
+8HQ2DI,5/3/2025,Mobile Recharge,9888,280,9608,recharged talktime,john,,P2M
+52KY8B,5/12/2025,Mobile Recharge,7978,244,7734,daily voice pack,saloni,,P2M
+7TN1RV,5/5/2025,Mobile Recharge,48102,266,47836,ntc top-up,aryan,,P2M
+IM4QCP,4/28/2025,Bill Payment,30805,2207,28598,paid society maintenance,saloni,,P2M
+F1RMSN,4/25/2025,Mobile Recharge,18920,469,18451,ntc top-up,aryan,,P2M
+SAN9Y8,5/11/2025,Money Transfer,33279,9876,23403,monthly allowance for john,shruti,john,P2P
+LCGU08,4/17/2025,Money Transfer,4176,391,3785,monthly allowance for shruti,shruti,shruti,P2P
+ODVJ21,5/2/2025,Money Transfer,49572,9342,40230,shared expenses with saloni,aryan,saloni,P2P
+9OH3NL,5/1/2025,Mobile Recharge,12601,133,12468,ntc top-up,harry,,P2M
+R4JZ9C,4/16/2025,Bill Payment,30271,1944,28327,property tax payment,shruti,,P2M
+0P99FP,5/3/2025,Bill Payment,11773,2199,9574,paid society maintenance,aryan,,P2M
+PIQ2OO,4/15/2025,Mobile Recharge,26087,86,26001,ntc top-up,harry,,P2M
+AM3KV5,4/29/2025,Money Transfer,44812,3152,41660,shared expenses with shruti,neha,shruti,P2P
+NBKQZT,5/5/2025,Bill Payment,15235,4008,11227,paid society maintenance,harry,,P2M
+ZZDVLC,5/2/2025,Mobile Recharge,49455,453,49002,daily voice pack,john,,P2M
+FJI7OC,5/6/2025,Bill Payment,22936,9119,13817,monthly DTH recharge,saloni,,P2M
+HKBFUC,4/27/2025,Mobile Recharge,13450,54,13396,mobile pack renewal,ravi,,P2M
+E0126W,4/22/2025,Bill Payment,48280,11692,36588,internet subscription,neha,,P2M
+LB0Y5K,4/22/2025,Bill Payment,42117,9246,32871,internet subscription,john,,P2M
+3A6QCP,5/3/2025,Bill Payment,10468,2656,7812,property tax payment,neha,,P2M
+OJV4MN,4/14/2025,Bill Payment,14147,10976,3171,internet subscription,shruti,,P2M
+5E371Z,5/5/2025,Money Transfer,39158,10980,28178,split dinner cost with neha,shruti,neha,P2P
+TAY5VP,4/28/2025,Bill Payment,26299,11111,15188,monthly DTH recharge,shruti,,P2M
+XUCCLG,4/14/2025,Bill Payment,19862,9685,10177,cleared gas bill,ravi,,P2M
+YARTJ3,5/7/2025,Money Transfer,28417,13609,14808,gift money to saloni,john,saloni,P2P
+CAO0KD,4/24/2025,Money Transfer,25589,2026,23563,sent rent to harry,harry,harry,P2P
+WS9COB,4/28/2025,Mobile Recharge,6743,400,6343,ncell data recharge,shruti,,P2M
+WPBONC,4/19/2025,Money Transfer,16076,12599,3477,shared expenses with john,shruti,john,P2P
+2L8E93,4/25/2025,Mobile Recharge,27195,438,26757,daily voice pack,john,,P2M
+MLVN3Q,4/27/2025,Bill Payment,12594,11046,1548,cleared gas bill,saloni,,P2M
+HTWK1Q,4/21/2025,Bill Payment,33143,13745,19398,paid society maintenance,harry,,P2M
+HT20W8,5/13/2025,Money Transfer,43282,7058,36224,contribution for trip to john,john,john,P2P
+4OLT3E,4/18/2025,Mobile Recharge,31664,455,31209,mobile pack renewal,ravi,,P2M
+96U15H,4/26/2025,Mobile Recharge,41078,442,40636,prepaid balance refill,neha,,P2M
+YACBR6,4/21/2025,Money Transfer,16059,10505,5554,paid back to harry,saloni,harry,P2P
+OW8NH9,5/3/2025,Mobile Recharge,31181,213,30968,ncell data recharge,shruti,,P2M
+RYYEZ7,5/10/2025,Money Transfer,3196,12417,-9221,paid back to neha,shruti,neha,P2P
+28SZXB,5/5/2025,Bill Payment,6154,9284,-3130,internet subscription,ravi,,P2M
+Q8OTTY,5/4/2025,Mobile Recharge,47736,253,47483,ntc top-up,saloni,,P2M
+R1CZIV,4/26/2025,Bill Payment,37836,7343,30493,property tax payment,john,,P2M
+1WOOUL,4/30/2025,Mobile Recharge,7358,340,7018,recharged talktime,shruti,,P2M
+OWATED,5/1/2025,Bill Payment,49510,2353,47157,internet subscription,shruti,,P2M
+1HHEC6,5/3/2025,Bill Payment,19169,87,19082,internet subscription,neha,,P2M
+C8UL1W,5/13/2025,Mobile Recharge,22346,468,21878,ntc top-up,saloni,,P2M
+OAHX96,4/19/2025,Bill Payment,7705,1841,5864,settled water bill,neha,,P2M
+MNPHNW,4/28/2025,Money Transfer,5120,2567,2553,paid back to shruti,john,shruti,P2P
+42UMSO,5/7/2025,Bill Payment,28962,5164,23798,settled water bill,neha,,P2M
+EIFL6M,5/13/2025,Money Transfer,42563,7831,34732,contribution for trip to harry,harry,harry,P2P
+OQFAS0,4/21/2025,Mobile Recharge,32595,411,32184,prepaid balance refill,shruti,,P2M
+CH056N,5/5/2025,Bill Payment,38691,12992,25699,property tax payment,neha,,P2M
+SI3YG7,4/28/2025,Money Transfer,46979,10904,36075,paid back to shruti,john,shruti,P2P
+6ZIMT7,4/29/2025,Money Transfer,13196,2495,10701,sent rent to ravi,harry,ravi,P2P
+RRBU1J,5/10/2025,Money Transfer,20923,1194,19729,gift money to john,shruti,john,P2P
+PSHK6P,4/18/2025,Bill Payment,14787,11707,3080,paid electricity bill,aryan,,P2M
+LNYMHJ,4/29/2025,Money Transfer,42131,14581,27550,coffee meetup share with john,neha,john,P2P
+Z1V52I,5/7/2025,Bill Payment,40462,4170,36292,cleared monthly internet,aryan,,P2M
+1UUBWX,5/7/2025,Mobile Recharge,37000,139,36861,video call booster recharge,neha,,P2M
+EP378V,5/8/2025,Mobile Recharge,5821,92,5729,recharged talktime,ravi,,P2M
+1SMATL,4/17/2025,Money Transfer,6052,12814,-6762,went on lunch with ravi,ravi,ravi,P2P
+UDDMZD,5/6/2025,Money Transfer,46822,11766,35056,thanks for booking concert tickets shruti,saloni,shruti,P2P
+DD6F8N,5/12/2025,Mobile Recharge,18417,318,18099,mobile pack renewal,ravi,,P2M
+DPSVJ4,4/20/2025,Bill Payment,18278,7208,11070,paid electricity bill,ravi,,P2M
+XJZ1JC,5/6/2025,Money Transfer,7873,12537,-4664,paid back cab fare saloni,john,saloni,P2P
+FWL1A3,5/8/2025,Mobile Recharge,21431,416,21015,video call booster recharge,aryan,,P2M
+7K9FPK,5/10/2025,Mobile Recharge,36441,393,36048,activated roaming pack,harry,,P2M
+ZDV075,4/26/2025,Mobile Recharge,3517,79,3438,bought online game currency,neha,,P2M
+9QOKZY,4/14/2025,Bill Payment,40096,13715,26381,Amazon Prime renewal,john,,P2M
+8YE6C0,5/4/2025,Money Transfer,42355,14765,27590,thanks for booking concert tickets john,harry,john,P2P
+WXVXOP,4/18/2025,Money Transfer,9767,3662,6105,loan repayment to shruti,shruti,shruti,P2P
+WG6TLQ,4/21/2025,Money Transfer,39553,4013,35540,paid back for movie night shruti,harry,shruti,P2P
+D9W0SQ,5/5/2025,Bill Payment,26336,1986,24350,annual maintenance fees,ravi,,P2M
+B9EDY8,5/9/2025,Bill Payment,44219,12043,32176,annual maintenance fees,john,,P2M
+RVL2N6,4/16/2025,Money Transfer,42919,2946,39973,sent rent to neha,saloni,neha,P2P
+T8AOOC,4/29/2025,Bill Payment,28412,7857,20555,paid house rent online,saloni,,P2M
+3DDC0E,5/2/2025,Bill Payment,40984,8049,32935,school fees payment,saloni,,P2M
+ROGOEC,5/4/2025,Money Transfer,14237,12397,1840,thanks for booking concert tickets neha,saloni,neha,P2P
+0LVO1L,5/5/2025,Mobile Recharge,12963,339,12624,bought online game currency,john,,P2M
+EBWVQ1,5/10/2025,Money Transfer,29971,4349,25622,shared expenses with saloni,neha,saloni,P2P
+D0YMHA,5/12/2025,Money Transfer,30552,13845,16707,shared expenses with ravi,shruti,ravi,P2P
+ZLYPI6,4/19/2025,Bill Payment,8868,9628,-760,monthly DTH recharge,shruti,,P2M
+IEKPQ9,5/12/2025,Money Transfer,7293,8557,-1264,paid back cab fare neha,neha,neha,P2P
+S8LFMY,4/17/2025,Mobile Recharge,25172,451,24721,ncell data recharge,saloni,,P2M
+DI080Q,4/28/2025,Bill Payment,27177,8886,18291,insurance premium paid,john,,P2M
+56UWQW,4/14/2025,Mobile Recharge,36847,463,36384,monthly plan activation,harry,,P2M
+1UJTKN,5/14/2025,Mobile Recharge,7274,116,7158,boosted gaming credits,aryan,,P2M
+CI4F45,4/29/2025,Mobile Recharge,10439,440,9999,mobile pack renewal,john,,P2M
+4V0ZU7,5/6/2025,Mobile Recharge,28157,206,27951,monthly plan activation,harry,,P2M
+A1O1Y8,5/14/2025,Money Transfer,23470,11978,11492,gift money to shruti,saloni,shruti,P2P
+UQCVO7,4/23/2025,Mobile Recharge,38499,125,38374,activated roaming pack,ravi,,P2M
+V3VGS4,5/4/2025,Mobile Recharge,49122,247,48875,weekly browsing pack,ravi,,P2M
+LSQSDM,5/11/2025,Bill Payment,4415,5805,-1390,settled water charges,john,,P2M
+B82NBD,4/17/2025,Money Transfer,15647,7816,7831,trip contribution for john,neha,john,P2P
+EYZGNH,5/5/2025,Mobile Recharge,46013,222,45791,prepaid balance refill,neha,,P2M
+7RZDAB,5/6/2025,Bill Payment,34615,1844,32771,annual maintenance fees,shruti,,P2M
+IT8K5L,5/5/2025,Mobile Recharge,7537,312,7225,video call booster recharge,shruti,,P2M
+1KZRQ4,4/27/2025,Money Transfer,7256,11889,-4633,birthday surprise for ravi,neha,ravi,P2P
+D7FC8E,4/28/2025,Mobile Recharge,36036,123,35913,monthly plan activation,saloni,,P2M
+SN7F26,5/4/2025,Money Transfer,48240,4750,43490,split dinner cost with saloni,harry,saloni,P2P
+08OKVJ,5/3/2025,Bill Payment,21173,8837,12336,cleared monthly internet,saloni,,P2M
+Y0C30N,4/15/2025,Mobile Recharge,37053,59,36994,bought online game currency,john,,P2M
+CAE230,4/24/2025,Money Transfer,46777,734,46043,birthday surprise for shruti,harry,shruti,P2P
+M3IGOK,5/1/2025,Bill Payment,9050,508,8542,settled water charges,aryan,,P2M
+9MRLOY,5/4/2025,Mobile Recharge,6696,186,6510,ntc top-up,ravi,,P2M
+FM1U27,5/8/2025,Mobile Recharge,9715,495,9220,activated roaming pack,john,,P2M
+N9WABM,5/4/2025,Money Transfer,21266,14477,6789,trip contribution for saloni,shruti,saloni,P2P
+QK3X5L,4/21/2025,Mobile Recharge,30046,298,29748,video call booster recharge,aryan,,P2M
+QX1S0H,4/24/2025,Mobile Recharge,49896,271,49625,daily voice pack,john,,P2M
+9N0G4H,4/21/2025,Bill Payment,34157,1113,33044,settled water charges,saloni,,P2M
+UHC2A8,5/14/2025,Bill Payment,39838,11210,28628,paid house rent online,saloni,,P2M
+RIYS3K,5/12/2025,Money Transfer,13789,2473,11316,gift money to shruti,aryan,shruti,P2P
+ELED4S,4/26/2025,Money Transfer,17883,12062,5821,thanks for booking concert tickets ravi,harry,ravi,P2P
+DRLZJO,5/9/2025,Money Transfer,41627,13413,28214,paid back cab fare ravi,neha,ravi,P2P
+2XFE1Z,5/7/2025,Money Transfer,19329,7914,11415,sent rent to ravi,ravi,ravi,P2P
+AIY7WJ,4/30/2025,Mobile Recharge,43573,290,43283,weekly browsing pack,john,,P2M
+PNMU1V,5/8/2025,Mobile Recharge,46519,121,46398,monthly plan activation,ravi,,P2M
+G9X19J,4/23/2025,Money Transfer,8910,4727,4183,paid back cab fare saloni,shruti,saloni,P2P
+NUR97D,4/14/2025,Bill Payment,27643,7039,20604,cleared monthly internet,shruti,,P2M
+I07GCH,5/7/2025,Money Transfer,15382,8467,6915,split dinner cost with ravi,aryan,ravi,P2P
+78O1P7,5/2/2025,Money Transfer,11161,2136,9025,birthday surprise for harry,saloni,harry,P2P
+4MJOR8,5/13/2025,Bill Payment,30003,7728,22275,paid electricity bill,shruti,,P2M
+IYAIJV,5/14/2025,Money Transfer,26595,3297,23298,birthday surprise for neha,ravi,neha,P2P
+0CLSNT,5/12/2025,Bill Payment,11682,8687,2995,paid Spotify family plan,harry,,P2M
+VSEBKV,5/12/2025,Bill Payment,16670,5675,10995,monthly DTH recharge,shruti,,P2M
+YKFY62,4/22/2025,Mobile Recharge,25001,313,24688,prepaid balance refill,neha,,P2M
+7KSOX2,4/28/2025,Money Transfer,39498,14507,24991,loan repayment to ravi,ravi,ravi,P2P
+NMHSUO,4/27/2025,Mobile Recharge,28215,261,27954,weekly browsing pack,john,,P2M
+H3MZZ0,5/6/2025,Money Transfer,20285,9219,11066,birthday surprise for harry,neha,harry,P2P
+1QFNOF,4/21/2025,Bill Payment,21180,5623,15557,school fees payment,aryan,,P2M
+ZMTDFV,5/8/2025,Bill Payment,49590,14441,35149,settled water charges,aryan,,P2M
+DOH7YM,4/17/2025,Mobile Recharge,3724,69,3655,daily voice pack,ravi,,P2M
+1TW8ZA,5/7/2025,Mobile Recharge,27676,235,27441,bought online game currency,ravi,,P2M
+S77HSD,5/2/2025,Money Transfer,17387,8435,8952,shared expenses with john,john,john,P2P
+7PX2SF,5/8/2025,Mobile Recharge,38645,404,38241,monthly plan activation,aryan,,P2M
+CXS01Q,4/18/2025,Money Transfer,43157,5611,37546,sent rent to saloni,saloni,saloni,P2P
+4Q6SL4,4/16/2025,Money Transfer,25373,9941,15432,monthly allowance for shruti,john,shruti,P2P
+2DVBXP,4/29/2025,Mobile Recharge,9396,386,9010,recharged talktime,saloni,,P2M
+UAHSZ8,4/27/2025,Mobile Recharge,3634,235,3399,video call booster recharge,ravi,,P2M
+9LSZD7,4/28/2025,Mobile Recharge,40048,465,39583,mobile pack renewal,ravi,,P2M
+TH4M2Y,5/13/2025,Money Transfer,49890,2118,47772,coffee meetup share with ravi,john,ravi,P2P
+ZLIJKX,5/14/2025,Money Transfer,5183,7246,-2063,paid back for movie night saloni,shruti,saloni,P2P
+HMQ10V,5/14/2025,Mobile Recharge,17666,326,17340,prepaid balance refill,shruti,,P2M
+WI7HRD,4/30/2025,Mobile Recharge,39424,125,39299,recharged talktime,aryan,,P2M
+522WTI,4/17/2025,Money Transfer,32722,6315,26407,coffee meetup share with neha,ravi,neha,P2P
+UE5YXD,4/16/2025,Mobile Recharge,38067,273,37794,ntc top-up,neha,,P2M
+1F1W35,5/5/2025,Money Transfer,32191,13206,18985,trip contribution for john,ravi,john,P2P
+YJ2N7V,4/22/2025,Bill Payment,28694,5179,23515,insurance premium paid,shruti,,P2M
+VYP12F,4/16/2025,Money Transfer,31595,4709,26886,coffee meetup share with john,john,john,P2P
+WNL5ZF,4/23/2025,Money Transfer,4255,13494,-9239,sent rent to neha,shruti,neha,P2P
+AMSXPC,4/22/2025,Mobile Recharge,49755,434,49321,ncell data recharge,aryan,,P2M
+RW29DK,4/25/2025,Mobile Recharge,13345,138,13207,ncell data recharge,shruti,,P2M
+H8G0IM,4/17/2025,Bill Payment,20168,3986,16182,cleared monthly internet,ravi,,P2M
+3VUO25,5/4/2025,Mobile Recharge,17042,207,16835,video call booster recharge,harry,,P2M
+U7VZJU,4/20/2025,Mobile Recharge,5531,328,5203,monthly mobile recharge,aryan,,P2M
+TJLSWM,5/3/2025,Money Transfer,60648,14297,46351,monthly loan repayment,sita,alex,P2P
+RH7Z83,4/24/2025,Mobile Recharge,33845,55,33790,ncell recharge,aryan,,P2M
+XXJRY0,4/24/2025,Money Transfer,50631,12704,37927,monthly loan repayment,aryan,alex,P2P
+V9EKSX,4/26/2025,Bill Payment,17838,235,17603,postpaid mobile bill,aryan,,P2M
+XVPUUM,4/14/2025,Bill Payment,16591,376,16215,postpaid mobile bill,nisha,,P2M
+N7N7MI,5/1/2025,Bill Payment,29241,385,28856,cleared water charges,anil,,P2M
+3OAQ5Z,4/23/2025,Bill Payment,22113,426,21687,tv cable payment,deepa,,P2M
+07N6PH,4/28/2025,Bill Payment,26130,331,25799,internet recharge,deepa,,P2M
+4ZRBLH,4/19/2025,Bill Payment,13978,178,13800,internet recharge,anil,,P2M
+E52YOO,4/19/2025,Money Transfer,16767,13528,3239,gift for birthday,rohan,kumar,P2P
+UVN8RK,4/17/2025,Money Transfer,43234,11868,31366,helped friend,rohan,mira,P2P
+OGFOHJ,4/16/2025,Mobile Recharge,20029,66,19963,ncell recharge,anil,,P2M
+0LWEDV,4/12/2025,Money Transfer,40307,16448,23859,sent rent,rohan,alex,P2P
+0B2ODP,4/13/2025,Bill Payment,28363,429,27934,paid gas bill,aryan,,P2M
+H91BO1,5/2/2025,Money Transfer,41035,18489,22546,split vacation cost,aryan,mira,P2P
+JPXF08,4/27/2025,Bill Payment,37288,280,37008,internet recharge,deepa,,P2M
+UHSZOA,5/3/2025,Bill Payment,40982,247,40735,postpaid mobile bill,deepa,,P2M
+WOY247,4/30/2025,Money Transfer,31394,9863,21531,monthly loan repayment,anil,john,P2P
+QAKT90,4/22/2025,Money Transfer,29364,10609,18755,shared dinner bill,sita,shruti,P2P
+DFJMFJ,4/21/2025,Money Transfer,27814,8497,19317,shared dinner bill,deepa,alex,P2P
+6HYY1Y,4/21/2025,Money Transfer,22120,14062,8058,shared dinner bill,aryan,harry,P2P
+DPDUAL,5/11/2025,Bill Payment,31004,382,30622,tv cable payment,rohan,,P2M
+040VVT,4/17/2025,Money Transfer,18270,166,18104,emergency funds,aryan,kumar,P2P
+KVL60F,5/4/2025,Mobile Recharge,4706,121,4585,recharged phone,sita,,P2M
+856NEX,4/24/2025,Mobile Recharge,46084,325,45759,ncell recharge,anil,,P2M
+BZPSYO,4/20/2025,Bill Payment,50353,424,49929,postpaid mobile bill,nisha,,P2M
+GV6QYC,5/11/2025,Money Transfer,43039,1026,42013,shared dinner bill,deepa,harry,P2P
+6M4QOO,5/9/2025,Bill Payment,32213,101,32112,tv cable payment,nisha,,P2M
+VR8JLF,5/7/2025,Money Transfer,18698,10223,8475,sent rent,rohan,mira,P2P
+1N936E,5/8/2025,Money Transfer,41736,5514,36222,repaid borrowed amount,rohan,harry,P2P
+ABJ9CT,5/9/2025,Money Transfer,19082,13126,5956,shared dinner bill,anil,harry,P2P
+C2AY9Q,5/4/2025,Mobile Recharge,14212,447,13765,quick talktime refill,sita,,P2M
+HUDPP5,4/18/2025,Mobile Recharge,46649,358,46291,recharged phone,aryan,,P2M
+4GQEWJ,5/1/2025,Money Transfer,61365,14411,46954,helped friend,aryan,kumar,P2P
+7N2KDU,4/24/2025,Mobile Recharge,36705,162,36543,quick talktime refill,anil,,P2M
+E8L3NY,4/15/2025,Mobile Recharge,15398,76,15322,data pack activation,aryan,,P2M
+WX7GQ2,4/28/2025,Bill Payment,43255,438,42817,postpaid mobile bill,deepa,,P2M
+J3E91G,4/29/2025,Bill Payment,40830,142,40688,tv cable payment,sita,,P2M
+LP7WPG,4/21/2025,Bill Payment,32178,352,31826,paid electricity bill,sita,,P2M
+SZLDVY,4/12/2025,Mobile Recharge,7986,233,7753,weekly pack reload,rohan,,P2M
+UN19D4,4/20/2025,Money Transfer,29119,7643,21476,monthly loan repayment,anil,shruti,P2P
+SHVZCM,4/30/2025,Money Transfer,55564,6838,48726,gift for birthday,rohan,harry,P2P
+QSU40Z,4/18/2025,Mobile Recharge,24998,125,24873,quick talktime refill,anil,,P2M
+DW0LVB,4/13/2025,Money Transfer,56778,8305,48473,gift for birthday,sita,shruti,P2P
+VV8CJT,5/11/2025,Money Transfer,36054,1406,34648,sent rent,aryan,alex,P2P
+AXC9E0,4/18/2025,Money Transfer,17548,9422,8126,emergency funds,rohan,harry,P2P
+GYVGV1,4/26/2025,Bill Payment,9957,490,9467,settled utility bills,anil,,P2M
+MTTNTW,5/8/2025,Money Transfer,24548,15891,8657,repaid borrowed amount,deepa,alex,P2P
+2EMJAV,4/22/2025,Money Transfer,42718,9317,33401,helped friend,deepa,shruti,P2P
+IKD5VS,5/1/2025,Mobile Recharge,23027,309,22718,quick talktime refill,deepa,,P2M
+B248CT,5/10/2025,Money Transfer,58126,10014,48112,shared dinner bill,deepa,mira,P2P
+RYBX0X,4/26/2025,Bill Payment,3284,55,3229,internet recharge,aryan,,P2M
+1RSJ8Z,5/7/2025,Money Transfer,39992,3333,36659,split vacation cost,rohan,harry,P2P
+8V7K68,5/4/2025,Mobile Recharge,9672,116,9556,ncell recharge,sita,,P2M
+CN0GZZ,5/2/2025,Money Transfer,40567,10664,29903,monthly loan repayment,deepa,kumar,P2P
+AYW41B,5/12/2025,Mobile Recharge,43566,288,43278,weekly pack reload,anil,,P2M
+BATMNK,4/30/2025,Bill Payment,19773,73,19700,settled utility bills,sita,,P2M
+W3TFAZ,5/2/2025,Money Transfer,52681,17773,34908,emergency funds,nisha,harry,P2P
+10KBUD,4/22/2025,Bill Payment,22741,258,22483,postpaid mobile bill,sita,,P2M
+KOO669,5/5/2025,Money Transfer,20616,12853,7763,shared dinner bill,deepa,harry,P2P
+SHYNC1,4/29/2025,Bill Payment,15466,232,15234,internet recharge,nisha,,P2M
+1RVPLN,4/30/2025,Money Transfer,15254,11496,3758,repaid borrowed amount,anil,shruti,P2P
+UEG409,5/10/2025,Money Transfer,6501,1689,4812,monthly loan repayment,sita,shruti,P2P
+UNGWH3,5/8/2025,Bill Payment,38435,370,38065,monthly subscription,rohan,,P2M
+FIAU51,4/30/2025,Bill Payment,34069,69,34000,monthly subscription,deepa,,P2M
+UL5E02,5/10/2025,Money Transfer,42569,15931,26638,shared dinner bill,aryan,kumar,P2P
+HNHT3E,4/20/2025,Mobile Recharge,24767,167,24600,data pack activation,aryan,,P2M
+VBIQZA,4/23/2025,Money Transfer,49565,12393,37172,shared dinner bill,rohan,shruti,P2P
+YPRMX0,4/26/2025,Bill Payment,36556,142,36414,monthly subscription,nisha,,P2M
+O2F65Q,4/19/2025,Mobile Recharge,5033,234,4799,ncell recharge,rohan,,P2M
+5QSCA8,4/20/2025,Bill Payment,49999,65,49934,paid electricity bill,nisha,,P2M
+UEYOKJ,4/27/2025,Mobile Recharge,8030,65,7965,quick talktime refill,rohan,,P2M
+MEWVIU,4/15/2025,Bill Payment,2009,462,1547,paid electricity bill,sita,,P2M
+DC8IR1,4/26/2025,Bill Payment,48913,224,48689,internet recharge,anil,,P2M
+R8OHW2,4/26/2025,Bill Payment,44320,411,43909,paid electricity bill,rohan,,P2M
+VIIGYV,4/26/2025,Mobile Recharge,18213,110,18103,ntc top-up,sita,,P2M
+3KWGES,5/3/2025,Money Transfer,38302,7308,30994,sent rent,rohan,john,P2P
+AY4TRJ,4/17/2025,Mobile Recharge,28740,164,28576,quick talktime refill,deepa,,P2M
+SSSZKT,4/16/2025,Mobile Recharge,17708,70,17638,voice pack recharge,aryan,,P2M
+A7405B,4/22/2025,Mobile Recharge,47795,257,47538,monthly mobile recharge,rohan,,P2M
+D3TNK7,4/21/2025,Mobile Recharge,34788,51,34737,recharged phone,anil,,P2M
+5UQXF7,4/13/2025,Money Transfer,50760,7441,43319,monthly loan repayment,rohan,kumar,P2P
+I4OBAM,4/24/2025,Bill Payment,1597,401,1196,paid gas bill,anil,,P2M
+GBJ8CC,5/3/2025,Mobile Recharge,17689,114,17575,voice pack recharge,rohan,,P2M
+11D41U,4/29/2025,Bill Payment,26063,331,25732,postpaid mobile bill,nisha,,P2M
+URNLQ4,4/29/2025,Bill Payment,22914,432,22482,cleared water charges,rohan,,P2M
+5U2EIK,4/16/2025,Mobile Recharge,45341,449,44892,recharged phone,aryan,,P2M
+34MDGV,5/12/2025,Money Transfer,18023,5908,12115,repaid borrowed amount,nisha,shruti,P2P
+36S0YK,4/20/2025,Mobile Recharge,5412,426,4986,quick talktime refill,sita,,P2M
+HYT1OZ,4/26/2025,Mobile Recharge,43139,265,42874,monthly mobile recharge,rohan,,P2M
+IBLPZW,5/11/2025,Bill Payment,16631,319,16312,cleared water charges,rohan,,P2M
+YMUHER,5/10/2025,Mobile Recharge,41509,176,41333,data pack activation,rohan,,P2M
+394085,5/1/2025,Money Transfer,53156,17719,35437,gift for birthday,nisha,alex,P2P
+VQZK0B,4/26/2025,Mobile Recharge,4051,297,3754,quick talktime refill,anil,,P2M
+M6NZ7P,4/17/2025,Bill Payment,14723,345,14378,tv cable payment,nisha,,P2M
+LMR0G6,5/6/2025,Bill Payment,9695,181,9514,tv cable payment,aryan,,P2M
+KKIWH4,4/14/2025,Mobile Recharge,13208,123,13085,ntc top-up,rohan,,P2M
+JO0H1Z,4/28/2025,Mobile Recharge,22425,319,22106,recharged phone,aryan,,P2M
+LQJE8N,4/25/2025,Bill Payment,39238,180,39058,paid electricity bill,nisha,,P2M
+H4SYPQ,5/9/2025,Bill Payment,48481,91,48390,online newspaper renewal,rohan,,P2M
+3E0IUG,4/15/2025,Mobile Recharge,8830,376,8454,night data pack,deepa,,P2M
+MX61P8,4/14/2025,Money Transfer,47061,9653,37408,repaid borrowed amount,deepa,kumar,P2P
+73OUK1,4/14/2025,Money Transfer,29592,15987,13605,roommate rent share,deepa,john,P2P
+6C31N9,5/10/2025,Mobile Recharge,16777,316,16461,recharged unlimited pack,deepa,,P2M
+W2NEML,5/2/2025,Money Transfer,36745,6234,30511,shared dinner bill,sita,alex,P2P
+L4D715,5/7/2025,Money Transfer,50070,18325,31745,support for groceries,rohan,alex,P2P
+EVYZLW,4/17/2025,Bill Payment,12906,282,12624,regular bill settlement,nisha,,P2M
+9VUQ8X,4/27/2025,Mobile Recharge,17729,156,17573,flash deal recharge,aryan,,P2M
+M6JE4U,5/1/2025,Money Transfer,49063,9507,39556,monthly rent for flat,sita,shruti,P2P
+WIP6MM,5/11/2025,Bill Payment,44546,216,44330,paid home utilities,deepa,,P2M
+6L37AU,4/15/2025,Bill Payment,47503,95,47408,paid home utilities,sita,,P2M
+KSEC2M,4/28/2025,Mobile Recharge,45478,355,45123,special festival offer recharge,anil,,P2M
+X1AEWL,5/9/2025,Money Transfer,41335,1992,39343,support for groceries,deepa,harry,P2P
+8B1HVF,4/16/2025,Money Transfer,31160,8306,22854,emergency funds,aryan,shruti,P2P
+L5XU87,4/15/2025,Mobile Recharge,49603,68,49535,voice and data bundle,anil,,P2M
+RVGAZI,4/16/2025,Money Transfer,46366,3853,42513,family medical help,sita,shruti,P2P
+40KB8L,5/6/2025,Bill Payment,40122,143,39979,cleared internet bill,sita,,P2M
+3LQVMX,4/26/2025,Bill Payment,46360,344,46016,monthly subscription,rohan,,P2M
+0KVUZ9,5/1/2025,Mobile Recharge,30746,202,30544,recharged phone,anil,,P2M
+WAMOG2,4/14/2025,Money Transfer,13752,7124,6628,advance payment to friend,anil,harry,P2P
+BIPPZR,5/10/2025,Money Transfer,22963,16073,6890,gift for birthday,aryan,shruti,P2P
+IE72L4,4/28/2025,Mobile Recharge,23215,206,23009,voice and data bundle,anil,,P2M
+WQRCV4,5/2/2025,Money Transfer,19943,15812,4131,family medical help,nisha,harry,P2P
+PY0FQV,4/30/2025,Money Transfer,6804,2381,4423,split vacation cost,deepa,kumar,P2P
+O4KIEI,5/4/2025,Bill Payment,28442,497,27945,credit card bill,sita,,P2M
+6WY5KZ,5/9/2025,Mobile Recharge,44401,384,44017,super saver recharge,rohan,,P2M
+CYFP8Y,4/22/2025,Money Transfer,30742,16303,14439,sent birthday funds,nisha,kumar,P2P
+AB393Y,4/22/2025,Bill Payment,29966,445,29521,education portal fee,nisha,,P2M
+EKJDR9,4/12/2025,Money Transfer,43332,6980,36352,roommate rent share,nisha,kumar,P2P
+KS5LN7,4/17/2025,Bill Payment,11275,62,11213,paid home utilities,rohan,,P2M
+INO79C,4/18/2025,Mobile Recharge,16960,277,16683,ntc top-up,anil,,P2M
+VV6DUT,5/10/2025,Mobile Recharge,40145,450,39695,quick talktime refill,deepa,,P2M
+JAQDQQ,4/26/2025,Mobile Recharge,36784,407,36377,night data pack,anil,,P2M
+K9B1M4,4/22/2025,Money Transfer,34329,16012,18317,support for groceries,sita,alex,P2P
+VWG6BW,5/2/2025,Mobile Recharge,23471,303,23168,student discount recharge,nisha,,P2M
+6LOJVT,4/27/2025,Money Transfer,34678,10681,23997,roommate rent share,aryan,kumar,P2P
+JL4OXS,5/10/2025,Mobile Recharge,2044,436,1608,voice and data bundle,aryan,,P2M
+QZ91ES,5/3/2025,Mobile Recharge,34717,174,34543,daily plan reload,deepa,,P2M
+7HN1SQ,4/14/2025,Money Transfer,16954,7417,9537,paid tuition fee,anil,harry,P2P
+2MC4VW,5/3/2025,Bill Payment,47170,211,46959,cleared digital TV dues,deepa,,P2M
+ABPZB5,4/24/2025,Mobile Recharge,34043,165,33878,monthly mobile recharge,deepa,,P2M
+3WV8YK,4/13/2025,Mobile Recharge,29005,406,28599,combo pack activated,nisha,,P2M
+KPVWYK,4/27/2025,Money Transfer,56047,14771,41276,covered concert tickets,anil,shruti,P2P
+PO82RU,4/15/2025,Mobile Recharge,18224,140,18084,voice and data bundle,anil,,P2M
+EKLNPZ,5/5/2025,Money Transfer,52006,15385,36621,monthly rent for flat,sita,kumar,P2P
+Z152BY,4/24/2025,Bill Payment,32224,295,31929,paid gas bill,deepa,,P2M
+7TKVRA,5/4/2025,Mobile Recharge,24724,165,24559,recharged phone,aryan,,P2M
+YQ3BPL,4/16/2025,Bill Payment,7313,190,7123,online newspaper renewal,aryan,,P2M
+YEX7QA,4/23/2025,Bill Payment,24438,408,24030,education portal fee,aryan,,P2M
+HSIAFR,4/22/2025,Mobile Recharge,5798,204,5594,student discount recharge,nisha,,P2M
+2LVMSD,4/17/2025,Money Transfer,23610,16510,7100,roommate rent share,sita,alex,P2P
+H5T0T7,4/24/2025,Mobile Recharge,13034,57,12977,recharged unlimited pack,anil,,P2M
+OZAMRZ,4/21/2025,Bill Payment,19940,214,19726,settled utility bills,nisha,,P2M
+KNP0WR,5/7/2025,Money Transfer,46055,8409,37646,covered concert tickets,deepa,mira,P2P
+H7SBYV,4/30/2025,Money Transfer,23850,19461,4389,gift for birthday,aryan,kumar,P2P
+P8AMDV,4/22/2025,Bill Payment,3778,293,3485,credit card bill,aryan,,P2M
+FGSONQ,5/11/2025,Mobile Recharge,41188,160,41028,voice pack recharge,rohan,,P2M
+H8UT9Y,5/10/2025,Money Transfer,37669,17496,20173,gift for birthday,deepa,mira,P2P
+EC7HXP,5/5/2025,Money Transfer,18512,11885,6627,helped friend,anil,john,P2P
+CFPV8D,5/2/2025,Mobile Recharge,32654,394,32260,student discount recharge,deepa,,P2M
+ST2CMJ,4/18/2025,Money Transfer,14717,2022,12695,advance payment to friend,rohan,shruti,P2P
+UCLFZ9,4/20/2025,Money Transfer,60352,10576,49776,monthly loan repayment,anil,harry,P2P
+DGMJZL,5/12/2025,Mobile Recharge,45120,278,44842,bonus talktime refill,nisha,,P2M
+XRJLML,5/9/2025,Mobile Recharge,21012,248,20764,evening call pack,anil,,P2M
+BZGYVD,4/29/2025,Money Transfer,48197,5070,43127,shared dinner bill,sita,kumar,P2P
+XZTKZB,4/24/2025,Mobile Recharge,7666,256,7410,super saver recharge,deepa,,P2M
+1CKZ1I,4/23/2025,Bill Payment,48034,409,47625,gym membership dues,aryan,,P2M
+J815KK,4/25/2025,Money Transfer,21007,17240,3767,helped friend,aryan,kumar,P2P
+LJHF3J,5/5/2025,Money Transfer,43723,12318,31405,roommate rent share,aryan,alex,P2P
+WMRV1I,4/30/2025,Bill Payment,34462,104,34358,settled utility bills,rohan,,P2M
+ZV0N4Q,4/24/2025,Bill Payment,14018,254,13764,cleared water charges,anil,,P2M
+YC9EAV,4/19/2025,Money Transfer,52458,9926,42532,cash gift for nephew,anil,alex,P2P
+OWKHL5,4/29/2025,Bill Payment,8441,81,8360,cleared internet bill,anil,,P2M
+VHCN97,4/19/2025,Money Transfer,56063,17301,38762,shared dinner bill,anil,kumar,P2P
+77DPO2,4/17/2025,Mobile Recharge,15201,314,14887,night data pack,rohan,,P2M
+7R097D,4/30/2025,Money Transfer,27519,12392,15127,covered concert tickets,deepa,alex,P2P
+T8Q4WZ,4/21/2025,Money Transfer,5527,140,5387,urgent family need,rohan,shruti,P2P
+EYEUR8,4/19/2025,Mobile Recharge,5466,99,5367,weekly pack reload,deepa,,P2M
+OTX82T,4/13/2025,Bill Payment,35115,242,34873,settled utility bills,nisha,,P2M
+H9II3F,5/10/2025,Bill Payment,13740,377,13363,internet recharge,anil,,P2M
+HCF3RY,4/20/2025,Bill Payment,4477,382,4095,monthly subscription,sita,,P2M
+GVEA44,4/29/2025,Mobile Recharge,27795,142,27653,quick talktime refill,deepa,,P2M
+0J91E0,4/26/2025,Bill Payment,37192,206,36986,cleared digital TV dues,aryan,,P2M
+T528YU,4/21/2025,Money Transfer,30439,19561,10878,gift for birthday,rohan,mira,P2P
+7WI0W0,5/6/2025,Mobile Recharge,48166,483,47683,limited time mobile pack,sita,,P2M
+7ME1YD,4/26/2025,Bill Payment,25484,299,25185,cleared internet bill,deepa,,P2M
+R4KGT5,4/25/2025,Mobile Recharge,17397,259,17138,flash deal recharge,nisha,,P2M
+M3QD1I,4/20/2025,Mobile Recharge,19259,460,18799,evening call pack,deepa,,P2M
+YNO1Z4,4/25/2025,Mobile Recharge,22743,370,22373,daily plan reload,rohan,,P2M
+AFMBB9,4/13/2025,Money Transfer,12979,7450,5529,sent birthday funds,aryan,shruti,P2P
+68AE3H,4/13/2025,Mobile Recharge,17535,486,17049,recharged unlimited pack,anil,,P2M
+GRG8TI,5/5/2025,Mobile Recharge,4416,435,3981,voice pack recharge,aryan,,P2M
+UYI444,5/10/2025,Bill Payment,46673,384,46289,paid gas bill,aryan,,P2M
+VQUPRO,4/28/2025,Bill Payment,30682,431,30251,gym membership dues,anil,,P2M
+VMQI9S,4/28/2025,Bill Payment,8142,249,7893,education portal fee,aryan,,P2M
+NM2LHY,4/14/2025,Bill Payment,47581,352,47229,gym membership dues,aryan,,P2M
+KMK84K,4/25/2025,Mobile Recharge,41717,369,41348,weekly pack reload,anil,,P2M
+1K05I1,4/26/2025,Mobile Recharge,34516,200,34316,evening call pack,anil,,P2M
+I0CZX8,4/28/2025,Mobile Recharge,40818,92,40726,monthly mobile recharge,anil,,P2M
+M6I855,4/29/2025,Mobile Recharge,49997,452,49545,data pack activation,nisha,,P2M
+DTH8G3,4/19/2025,Bill Payment,11907,487,11420,monthly EMIs,aryan,,P2M
+1KED71,4/12/2025,Mobile Recharge,26509,497,26012,flash deal recharge,nisha,,P2M
+X36HDU,4/25/2025,Mobile Recharge,30465,499,29966,evening call pack,nisha,,P2M
+D4JDA9,4/13/2025,Money Transfer,46003,19167,26836,advance payment to friend,anil,harry,P2P
+YKP8U6,4/12/2025,Mobile Recharge,26436,57,26379,bonus talktime refill,sita,,P2M
+ZEGS8V,5/1/2025,Mobile Recharge,25515,309,25206,ncell recharge,rohan,,P2M
+31PV3Y,4/21/2025,Bill Payment,32091,270,31821,paid electricity bill,deepa,,P2M
+O7RO5O,4/12/2025,Mobile Recharge,9466,392,9074,special festival offer recharge,rohan,,P2M
+LP8FL8,4/24/2025,Mobile Recharge,45143,184,44959,weekly pack reload,anil,,P2M
+W7K3IU,4/12/2025,Money Transfer,32173,16773,15400,repaid borrowed amount,sita,alex,P2P
+Z0UPJJ,4/15/2025,Bill Payment,47446,294,47152,education portal fee,anil,,P2M
+5FS6AA,5/9/2025,Money Transfer,19602,391,19211,old debt settlement,sita,john,P2P
+VJLMIJ,5/2/2025,Bill Payment,43858,298,43560,tv cable payment,rohan,,P2M
+DUOJPU,5/9/2025,Mobile Recharge,7217,473,6744,data pack activation,anil,,P2M
+T0QW3Z,4/15/2025,Mobile Recharge,7868,103,7765,flash deal recharge,sita,,P2M
+DV3TE3,4/24/2025,Money Transfer,43071,1736,41335,urgent family need,aryan,harry,P2P
+2O73LL,5/9/2025,Mobile Recharge,37500,334,37166,data pack activation,rohan,,P2M
+UGT9YI,5/9/2025,Bill Payment,41462,239,41223,internet recharge,sita,,P2M
+1OQH9D,4/13/2025,Money Transfer,43827,2234,41593,emergency funds,nisha,john,P2P
+VVRCLC,4/21/2025,Money Transfer,38326,18507,19819,family medical help,deepa,mira,P2P
+VMX0DL,4/14/2025,Bill Payment,23295,452,22843,online newspaper renewal,nisha,,P2M
+7M82VQ,4/13/2025,Bill Payment,48929,139,48790,cleared digital TV dues,anil,,P2M
+AV67HM,4/27/2025,Money Transfer,59379,17566,41813,emergency funds,anil,mira,P2P
+JS5RYC,5/3/2025,Money Transfer,26692,5052,21640,roommate rent share,rohan,harry,P2P
+Q0D95Z,4/21/2025,Money Transfer,29452,9165,20287,advance payment to friend,nisha,mira,P2P
+MEVY5S,4/13/2025,Money Transfer,39712,2934,36778,monthly loan repayment,anil,alex,P2P
+JA28W3,5/7/2025,Mobile Recharge,7327,489,6838,super saver recharge,anil,,P2M
+DQI9ZL,5/3/2025,Bill Payment,5700,405,5295,paid home utilities,deepa,,P2M
+ZQYZCV,5/11/2025,Mobile Recharge,2164,334,1830,voice and data bundle,rohan,,P2M
+IXTA4G,4/15/2025,Money Transfer,52385,16589,35796,family medical help,aryan,kumar,P2P
+RA3MBY,4/28/2025,Bill Payment,50445,462,49983,paid gas bill,rohan,,P2M
+QBL7RG,5/6/2025,Bill Payment,40787,327,40460,government water bill,deepa,,P2M
+2FJ3NN,4/25/2025,Bill Payment,11019,369,10650,monthly subscription,deepa,,P2M
+FH3NHE,5/1/2025,Money Transfer,37347,13978,23369,shared dinner bill,aryan,shruti,P2P
+6GEGIQ,4/27/2025,Bill Payment,42389,437,41952,postpaid mobile bill,aryan,,P2M
+DQXUC8,4/26/2025,Mobile Recharge,39457,220,39237,limited time mobile pack,aryan,,P2M
+BD9IU8,5/10/2025,Mobile Recharge,47370,120,47250,combo pack activated,anil,,P2M
+GKTX2F,4/27/2025,Money Transfer,9111,85,9026,shared dinner bill,nisha,john,P2P
+R97X6L,5/11/2025,Money Transfer,47974,17669,30305,shared fuel cost,anil,harry,P2P
+86H79X,4/15/2025,Mobile Recharge,9041,53,8988,special festival offer recharge,deepa,,P2M
+ZDZBBV,4/14/2025,Mobile Recharge,4879,434,4445,data pack activation,rohan,,P2M
+QFNFE9,4/18/2025,Bill Payment,34078,452,33626,settled utility bills,nisha,,P2M
+IJO8A8,5/11/2025,Bill Payment,36899,119,36780,paid club membership,sita,,P2M
+GGJNRX,4/26/2025,Mobile Recharge,1512,375,1137,weekly pack reload,nisha,,P2M
+F8C438,4/13/2025,Bill Payment,1720,459,1261,paid club membership,sita,,P2M
+NULG38,4/14/2025,Bill Payment,49537,485,49052,cleared water charges,rohan,,P2M
+VC29VS,4/15/2025,Mobile Recharge,26145,399,25746,bonus talktime refill,anil,,P2M
+U1MJHJ,4/21/2025,Mobile Recharge,7475,170,7305,weekly pack reload,rohan,,P2M
+PXN7E3,5/9/2025,Mobile Recharge,16390,342,16048,monthly mobile recharge,anil,,P2M
+WCBSBY,4/13/2025,Bill Payment,36031,213,35818,monthly subscription,sita,,P2M
+BU2FEZ,4/21/2025,Money Transfer,20101,4222,15879,shared fuel cost,rohan,john,P2P
+EZAES4,5/5/2025,Mobile Recharge,21063,490,20573,data pack activation,aryan,,P2M
+KIEFE7,5/1/2025,Mobile Recharge,29237,126,29111,evening call pack,sita,,P2M
+Q8W0SR,5/10/2025,Money Transfer,17355,4828,12527,urgent family need,sita,alex,P2P
+2D0VLC,4/15/2025,Money Transfer,31581,10680,20901,cash gift for nephew,anil,harry,P2P
+F1H6QJ,4/16/2025,Money Transfer,45552,4295,41257,advance payment to friend,deepa,john,P2P
+XXU4P3,5/1/2025,Money Transfer,42827,10498,32329,family medical help,nisha,mira,P2P
+BSDG3R,4/12/2025,Money Transfer,27104,14484,12620,gift for birthday,nisha,alex,P2P
+KXKSPQ,4/13/2025,Mobile Recharge,16157,417,15740,flash deal recharge,anil,,P2M
+CK7GTF,5/8/2025,Money Transfer,25662,16660,9002,covered concert tickets,aryan,john,P2P
+XB1WKG,5/5/2025,Money Transfer,60787,13542,47245,shared dinner bill,rohan,harry,P2P
+63P0II,5/1/2025,Money Transfer,32223,17516,14707,support for groceries,nisha,kumar,P2P
+I5PIMC,5/5/2025,Mobile Recharge,37529,125,37404,night data pack,deepa,,P2M
+LYXJTQ,4/17/2025,Bill Payment,48525,398,48127,settled utility bills,rohan,,P2M
+9XD8G7,5/9/2025,Money Transfer,46457,19029,27428,repaid borrowed amount,nisha,harry,P2P
+DGFAAA,4/22/2025,Mobile Recharge,35276,264,35012,recharged phone,aryan,,P2M
+YJ43LT,4/15/2025,Bill Payment,21177,500,20677,cleared internet bill,anil,,P2M
+MVLW0K,4/13/2025,Mobile Recharge,28513,106,28407,evening call pack,sita,,P2M
+N1Y0VQ,5/6/2025,Bill Payment,33666,477,33189,paid home utilities,aryan,,P2M
+EL2DPJ,5/6/2025,Bill Payment,23553,318,23235,online newspaper renewal,deepa,,P2M
+HVQN4M,4/29/2025,Money Transfer,52975,10023,42952,shared fuel cost,sita,kumar,P2P
+FOKOE9,5/9/2025,Money Transfer,42717,5869,36848,monthly loan repayment,sita,harry,P2P
+92JBZ9,5/8/2025,Money Transfer,58417,8553,49864,monthly loan repayment,nisha,alex,P2P
+ZB3B73,4/17/2025,Mobile Recharge,28729,389,28340,combo pack activated,sita,,P2M
+4HKL5C,5/2/2025,Money Transfer,13781,6292,7489,support for groceries,nisha,alex,P2P
+80X117,4/12/2025,Money Transfer,20382,64,20318,emergency funds,nisha,mira,P2P
+M3J519,5/10/2025,Bill Payment,37319,462,36857,gym membership dues,anil,,P2M
+9C6DS3,4/24/2025,Money Transfer,55386,18948,36438,emergency funds,rohan,john,P2P
+8PCCJG,4/19/2025,Bill Payment,15440,277,15163,gym membership dues,nisha,,P2M
+K75IM2,4/22/2025,Mobile Recharge,3283,286,2997,night data pack,deepa,,P2M
+AK8867,4/20/2025,Money Transfer,30307,10306,20001,sent rent,aryan,mira,P2P
+01JKNX,4/22/2025,Money Transfer,67203,19279,47924,repaid borrowed amount,rohan,harry,P2P
+6NOO96,4/26/2025,Money Transfer,45489,7723,37766,sent birthday funds,sita,shruti,P2P
+D7X4UN,4/18/2025,Money Transfer,27753,14383,13370,roommate rent share,aryan,john,P2P
+1JHLJR,4/15/2025,Bill Payment,41422,151,41271,paid home utilities,sita,,P2M
+FNLNXW,5/5/2025,Bill Payment,23749,454,23295,cleared water charges,anil,,P2M
+RCEDNE,4/29/2025,Mobile Recharge,35642,95,35547,voice and data bundle,rohan,,P2M
+ZJ8M5H,4/26/2025,Bill Payment,15206,308,14898,paid club membership,nisha,,P2M
+4ECEAI,5/4/2025,Mobile Recharge,9534,74,9460,student discount recharge,nisha,,P2M
+IOSRPN,5/7/2025,Money Transfer,25109,2825,22284,covered concert tickets,deepa,harry,P2P
+XS62S0,5/2/2025,Mobile Recharge,24992,142,24850,combo pack activated,aryan,,P2M
+8YU127,5/4/2025,Bill Payment,24410,195,24215,paid club membership,aryan,,P2M
+I9LQ59,4/15/2025,Mobile Recharge,49216,408,48808,weekly pack reload,nisha,,P2M
+Z7R7OQ,4/18/2025,Money Transfer,40251,10413,29838,paid tuition fee,sita,kumar,P2P
+Q5I7YI,5/5/2025,Mobile Recharge,32298,308,31990,combo pack activated,aryan,,P2M
+FWVRLP,5/8/2025,Money Transfer,15559,5378,10181,urgent family need,deepa,shruti,P2P
+J7A2BD,4/29/2025,Money Transfer,31517,19500,12017,shared dinner bill,rohan,alex,P2P
+RPUWWS,4/24/2025,Money Transfer,22191,17675,4516,paid tuition fee,nisha,mira,P2P
+QMLFWV,4/16/2025,Money Transfer,49336,657,48679,split vacation cost,sita,john,P2P
+AGZYT3,5/7/2025,Bill Payment,37593,483,37110,gym membership dues,aryan,,P2M
+S4ZFPL,4/16/2025,Money Transfer,57825,13751,44074,advance payment to friend,aryan,shruti,P2P
+PLV307,4/12/2025,Money Transfer,66819,18560,48259,shared fuel cost,deepa,kumar,P2P
+JUDAEU,4/23/2025,Mobile Recharge,7709,437,7272,night data pack,sita,,P2M
+18C1V0,5/4/2025,Bill Payment,27868,348,27520,paid electricity bill,nisha,,P2M
+80QTCB,4/22/2025,Bill Payment,21599,287,21312,monthly EMIs,nisha,,P2M
+ILZIS5,4/29/2025,Mobile Recharge,4243,102,4141,evening call pack,sita,,P2M
+4RMM9S,4/28/2025,Money Transfer,10439,6604,3835,cash gift for nephew,aryan,mira,P2P
+X0X9XL,4/14/2025,Money Transfer,20431,7540,12891,covered concert tickets,anil,shruti,P2P
+SVJWGD,5/9/2025,Mobile Recharge,9023,331,8692,super saver recharge,nisha,,P2M
+H1MEL8,5/11/2025,Bill Payment,24867,378,24489,credit card bill,deepa,,P2M
+JUTFI7,4/14/2025,Bill Payment,31902,469,31433,paid club membership,deepa,,P2M
+AD4MR7,4/20/2025,Money Transfer,45057,7055,38002,split vacation cost,rohan,john,P2P
+AWYICF,5/6/2025,Bill Payment,19117,410,18707,cleared internet bill,anil,,P2M
+QM1E91,4/15/2025,Mobile Recharge,4148,354,3794,bonus talktime refill,nisha,,P2M
+QL77R1,4/25/2025,Money Transfer,42213,10925,31288,emergency funds,deepa,john,P2P
+EAJJX8,4/25/2025,Mobile Recharge,31003,291,30712,data pack activation,aryan,,P2M
+1E9QZD,4/20/2025,Bill Payment,26212,309,25903,paid club membership,sita,,P2M
+83FC4A,5/2/2025,Money Transfer,21587,18867,2720,emergency funds,rohan,alex,P2P
+N64OFD,4/20/2025,Money Transfer,44799,6355,38444,advance payment to friend,nisha,harry,P2P
+W0ZY26,4/29/2025,Mobile Recharge,17284,309,16975,voice and data bundle,aryan,,P2M
+0KRZKK,5/3/2025,Bill Payment,27247,148,27099,renewed online subscription,nisha,,P2M
+VGOJ7V,4/14/2025,Money Transfer,41683,16677,25006,helped friend,anil,kumar,P2P
+M0V3LN,5/3/2025,Money Transfer,42956,9563,33393,shared fuel cost,aryan,kumar,P2P
+1WRU05,5/9/2025,Mobile Recharge,19160,490,18670,recharged phone,deepa,,P2M
+55YELH,5/11/2025,Bill Payment,22186,191,21995,monthly subscription,sita,,P2M
+N8W5Z1,4/29/2025,Money Transfer,31463,4558,26905,cash gift for nephew,aryan,alex,P2P
+R412H8,5/9/2025,Mobile Recharge,33515,157,33358,data pack activation,sita,,P2M
+RAK98C,5/6/2025,Bill Payment,15965,83,15882,settled utility bills,aryan,,P2M
+9EXSW6,5/10/2025,Bill Payment,17505,205,17300,education portal fee,rohan,,P2M
+PE6L36,4/23/2025,Bill Payment,4960,413,4547,monthly EMIs,rohan,,P2M
+VK8GG0,5/7/2025,Mobile Recharge,21445,280,21165,special festival offer recharge,nisha,,P2M
+BDXNDL,4/24/2025,Money Transfer,33624,10107,23517,covered concert tickets,sita,john,P2P
+83L8AQ,5/3/2025,Money Transfer,56213,14072,42141,roommate rent share,sita,alex,P2P
+C78MR3,4/28/2025,Bill Payment,25810,66,25744,education portal fee,deepa,,P2M
+MYQ6DS,4/20/2025,Mobile Recharge,5882,221,5661,voice and data bundle,aryan,,P2M
+L5YMON,4/26/2025,Mobile Recharge,33847,69,33778,voice and data bundle,deepa,,P2M
+PMSEGP,5/12/2025,Mobile Recharge,2811,68,2743,ncell recharge,sita,,P2M
+4YEVFK,5/1/2025,Money Transfer,3427,2314,1113,sent rent,rohan,kumar,P2P
+FTDZB7,5/5/2025,Money Transfer,27048,6121,20927,repaid borrowed amount,anil,alex,P2P
+LASCYE,4/23/2025,Mobile Recharge,35791,85,35706,data pack activation,anil,,P2M
+Z9V55U,4/18/2025,Bill Payment,41813,76,41737,renewed online subscription,nisha,,P2M
+SBAS9R,4/15/2025,Mobile Recharge,43700,243,43457,voice pack recharge,sita,,P2M
+S6VPDG,4/20/2025,Money Transfer,21958,10933,11025,sent rent,deepa,mira,P2P
+2O533M,5/11/2025,Money Transfer,19579,7135,12444,monthly loan repayment,rohan,shruti,P2P
+Z15BRK,4/12/2025,Bill Payment,24252,70,24182,cleared water charges,nisha,,P2M
+9QNX90,5/8/2025,Money Transfer,24840,7335,17505,monthly rent for flat,sita,harry,P2P
+E51CFP,5/1/2025,Bill Payment,27952,57,27895,monthly subscription,sita,,P2M
+TW8OG3,5/12/2025,Money Transfer,41740,17121,24619,shared fuel cost,rohan,mira,P2P
+ZHP11D,4/25/2025,Money Transfer,15435,8299,7136,shared fuel cost,sita,kumar,P2P
+S259UW,4/21/2025,Money Transfer,38068,9719,28349,support for groceries,anil,mira,P2P
+3N8VPL,4/27/2025,Bill Payment,42400,139,42261,paid gas bill,nisha,,P2M
+PKB4XU,4/28/2025,Money Transfer,37538,6643,30895,advance payment to friend,anil,shruti,P2P
+DTXC03,5/10/2025,Money Transfer,10802,4384,6418,monthly loan repayment,deepa,shruti,P2P
+DXB55J,4/21/2025,Mobile Recharge,18634,269,18365,night data pack,rohan,,P2M
+WIW539,4/13/2025,Mobile Recharge,13582,494,13088,monthly mobile recharge,nisha,,P2M
+874377,4/28/2025,Bill Payment,19378,257,19121,paid home utilities,nisha,,P2M
+9V2A4W,5/4/2025,Money Transfer,14505,3066,11439,cash gift for nephew,rohan,john,P2P
+6LF1ZY,4/17/2025,Money Transfer,9448,8245,1203,cash gift for nephew,deepa,mira,P2P
+H0LW4J,4/18/2025,Money Transfer,27405,1909,25496,old debt settlement,aryan,john,P2P
+N4FUFI,4/22/2025,Bill Payment,44510,158,44352,online newspaper renewal,anil,,P2M
+QRRFKI,5/2/2025,Bill Payment,42823,103,42720,cleared internet bill,sita,,P2M
+4C79Z2,4/12/2025,Mobile Recharge,27345,363,26982,monthly mobile recharge,anil,,P2M
+IP87FE,5/5/2025,Bill Payment,33165,351,32814,government water bill,aryan,,P2M
+CYW4FE,4/28/2025,Money Transfer,51845,5220,46625,covered concert tickets,deepa,mira,P2P
+4DQF3L,4/15/2025,Mobile Recharge,22206,169,22037,quick talktime refill,sita,,P2M
+I7HNYQ,5/4/2025,Mobile Recharge,26136,50,26086,quick talktime refill,nisha,,P2M
+CEPF85,4/19/2025,Mobile Recharge,35804,314,35490,super saver recharge,aryan,,P2M
+Y0DHM7,5/6/2025,Bill Payment,31247,193,31054,regular bill settlement,anil,,P2M
+NOH15F,5/3/2025,Money Transfer,55167,18915,36252,urgent family need,aryan,harry,P2P
+FRLV1M,5/8/2025,Bill Payment,35163,68,35095,online newspaper renewal,aryan,,P2M
+768JRG,5/1/2025,Bill Payment,36485,293,36192,credit card bill,sita,,P2M
+IEK8QQ,5/11/2025,Bill Payment,24253,352,23901,paid gas bill,rohan,,P2M
+PWA64B,4/13/2025,Mobile Recharge,6553,303,6250,ntc top-up,sita,,P2M
+9C8YYA,5/2/2025,Bill Payment,48416,475,47941,education portal fee,sita,,P2M
+LV3OXW,4/16/2025,Mobile Recharge,11222,333,10889,voice pack recharge,rohan,,P2M
+BNFX8I,5/12/2025,Mobile Recharge,35819,63,35756,flash deal recharge,nisha,,P2M
+U3NAJT,4/16/2025,Money Transfer,35150,19593,15557,monthly rent for flat,sita,mira,P2P
+UECE1O,4/20/2025,Money Transfer,49816,14153,35663,sent birthday funds,sita,alex,P2P
+4SCR48,4/19/2025,Mobile Recharge,5597,56,5541,night data pack,sita,,P2M
+O2SAT8,4/22/2025,Bill Payment,23056,220,22836,cleared internet bill,rohan,,P2M
+NBTU6L,4/22/2025,Money Transfer,43422,10523,32899,split vacation cost,rohan,harry,P2P
+EY44AF,5/8/2025,Bill Payment,44726,264,44462,paid electricity bill,rohan,,P2M
+K60KJ5,5/1/2025,Mobile Recharge,44389,326,44063,weekly pack reload,nisha,,P2M
+ZERPL6,4/22/2025,Money Transfer,48415,16450,31965,gift for birthday,aryan,alex,P2P
+Q06QKF,5/6/2025,Money Transfer,43794,12498,31296,paid tuition fee,nisha,kumar,P2P
+FI0SCG,4/18/2025,Money Transfer,36108,16525,19583,sent rent,nisha,alex,P2P
+147CYF,5/7/2025,Money Transfer,29365,8404,20961,gift for birthday,aryan,mira,P2P
+R0XO8G,5/5/2025,Bill Payment,16626,327,16299,online newspaper renewal,deepa,,P2M
+ATFGX8,4/18/2025,Money Transfer,49173,7318,41855,urgent family need,rohan,kumar,P2P
+2GJJ7F,5/8/2025,Money Transfer,22674,5933,16741,sent rent,anil,mira,P2P
+FQNO9V,4/19/2025,Bill Payment,42532,258,42274,cleared internet bill,nisha,,P2M
+L11STX,4/13/2025,Mobile Recharge,22957,74,22883,night data pack,aryan,,P2M
+P307SB,4/22/2025,Bill Payment,46920,318,46602,cleared water charges,nisha,,P2M
+DP0PM6,4/13/2025,Money Transfer,20382,10730,9652,advance payment to friend,deepa,harry,P2P
+YF8NS2,5/10/2025,Bill Payment,24950,482,24468,gym membership dues,deepa,,P2M
+G6UWKQ,4/15/2025,Money Transfer,47545,4969,42576,shared dinner bill,anil,john,P2P
+CQKYXD,4/22/2025,Bill Payment,5940,275,5665,cleared digital TV dues,deepa,,P2M
+9QNT8W,4/13/2025,Bill Payment,39597,255,39342,tv cable payment,deepa,,P2M
+28KO4H,4/25/2025,Mobile Recharge,15819,75,15744,voice and data bundle,nisha,,P2M
+VLJIYZ,4/17/2025,Money Transfer,46474,13818,32656,shared fuel cost,deepa,shruti,P2P
+Q21YPG,5/5/2025,Money Transfer,9588,1590,7998,roommate rent share,nisha,mira,P2P
+3A0059,5/8/2025,Mobile Recharge,1541,463,1078,flash deal recharge,deepa,,P2M
+76QYD0,4/23/2025,Money Transfer,26483,2673,23810,shared fuel cost,nisha,harry,P2P
+UWB5V7,4/30/2025,Money Transfer,43815,4339,39476,shared fuel cost,sita,shruti,P2P
+7VI57W,4/15/2025,Mobile Recharge,26473,382,26091,recharged unlimited pack,rohan,,P2M
+UIG4M3,5/9/2025,Bill Payment,28293,471,27822,education portal fee,rohan,,P2M
+UC3ZJC,4/20/2025,Mobile Recharge,21163,127,21036,voice and data bundle,sita,,P2M
+YTXG4F,5/12/2025,Bill Payment,46234,471,45763,paid club membership,nisha,,P2M
+Y48JKR,4/13/2025,Bill Payment,30723,221,30502,postpaid mobile bill,anil,,P2M
+9YSKM6,4/16/2025,Money Transfer,58206,9896,48310,support for groceries,nisha,alex,P2P
+LM49HS,5/6/2025,Money Transfer,10057,8653,1404,shared dinner bill,nisha,mira,P2P
+0QTGN4,4/22/2025,Money Transfer,27055,17231,9824,repaid borrowed amount,anil,john,P2P
+9VCB7C,4/24/2025,Mobile Recharge,13581,297,13284,weekly pack reload,rohan,,P2M
+EFOGWN,5/9/2025,Money Transfer,48007,18570,29437,support for groceries,nisha,alex,P2P
+8H3VSO,5/4/2025,Bill Payment,7717,480,7237,paid electricity bill,rohan,,P2M
+ON0YLR,4/30/2025,Money Transfer,23554,7370,16184,monthly loan repayment,anil,alex,P2P
+8EPVN8,5/11/2025,Mobile Recharge,22842,266,22576,student discount recharge,rohan,,P2M
+KDGS0V,4/24/2025,Money Transfer,41843,11651,30192,sent birthday funds,sita,harry,P2P
+QX4ALE,4/30/2025,Bill Payment,34912,474,34438,cleared internet bill,sita,,P2M
+KC4CVH,4/12/2025,Bill Payment,15014,407,14607,paid home utilities,rohan,,P2M
+4WE15S,4/28/2025,Bill Payment,35438,377,35061,cleared internet bill,anil,,P2M
+8M63QO,4/30/2025,Money Transfer,29749,3561,26188,emergency funds,aryan,john,P2P
+0CYZRI,5/5/2025,Mobile Recharge,27748,105,27643,voice pack recharge,sita,,P2M
+3IX9CX,4/17/2025,Money Transfer,16752,10989,5763,roommate rent share,nisha,john,P2P
+DS4KY2,5/8/2025,Mobile Recharge,23257,377,22880,recharged phone,nisha,,P2M
+SUR3VC,5/5/2025,Bill Payment,7914,364,7550,internet recharge,nisha,,P2M
+EO86WP,5/4/2025,Mobile Recharge,1582,234,1348,super saver recharge,rohan,,P2M
+ECULLO,5/2/2025,Mobile Recharge,18891,417,18474,recharged phone,nisha,,P2M
+A01H85,4/27/2025,Mobile Recharge,31679,490,31189,recharged phone,deepa,,P2M
+7NVBIO,4/14/2025,Money Transfer,22440,8297,14143,shared dinner bill,sita,john,P2P
+PCME96,4/23/2025,Mobile Recharge,47200,248,46952,limited time mobile pack,nisha,,P2M
+H4OS8O,4/26/2025,Bill Payment,25306,180,25126,postpaid mobile bill,nisha,,P2M
+E818RF,4/21/2025,Mobile Recharge,4601,223,4378,special festival offer recharge,deepa,,P2M
+FPQL0P,4/15/2025,Bill Payment,42879,70,42809,cleared water charges,deepa,,P2M
+X9GF1T,4/19/2025,Bill Payment,40780,54,40726,monthly subscription,aryan,,P2M
+7Z2KXA,4/16/2025,Bill Payment,47126,300,46826,monthly EMIs,rohan,,P2M
+WZ5FDG,5/4/2025,Money Transfer,26276,12216,14060,monthly loan repayment,anil,shruti,P2P
+TQ72FM,5/1/2025,Bill Payment,29372,267,29105,cleared digital TV dues,aryan,,P2M
+BZSA6C,5/1/2025,Money Transfer,29182,11370,17812,emergency funds,aryan,harry,P2P
+XREDB4,5/5/2025,Mobile Recharge,8684,165,8519,quick talktime refill,aryan,,P2M
+1AZ1QS,4/15/2025,Bill Payment,27349,83,27266,education portal fee,deepa,,P2M
+GMPKDC,5/6/2025,Bill Payment,31188,230,30958,gym membership dues,aryan,,P2M
+I6STW7,4/27/2025,Money Transfer,58254,15550,42704,shared fuel cost,rohan,kumar,P2P
+3BTR5Z,4/26/2025,Bill Payment,12666,178,12488,gym membership dues,anil,,P2M
+ZQWWZG,4/15/2025,Money Transfer,15289,10105,5184,old debt settlement,deepa,mira,P2P
+OD2BLS,5/5/2025,Mobile Recharge,15966,384,15582,data pack activation,aryan,,P2M
+DGOLXX,4/17/2025,Mobile Recharge,3094,462,2632,monthly mobile recharge,nisha,,P2M
+J7SFAW,4/20/2025,Bill Payment,11467,290,11177,settled utility bills,aryan,,P2M
+EVK3AY,4/19/2025,Mobile Recharge,24307,375,23932,daily plan reload,aryan,,P2M
+99L7QH,4/12/2025,Mobile Recharge,8782,213,8569,quick talktime refill,deepa,,P2M
+GWY7F0,4/20/2025,Money Transfer,34513,7452,27061,shared fuel cost,deepa,mira,P2P
+H9ID26,4/18/2025,Mobile Recharge,26662,72,26590,special festival offer recharge,deepa,,P2M
+PT52A7,4/23/2025,Mobile Recharge,30008,106,29902,recharged phone,deepa,,P2M
+2PSKUR,5/4/2025,Bill Payment,48299,104,48195,internet recharge,deepa,,P2M
+9AKJ6R,5/6/2025,Money Transfer,23511,11164,12347,repaid borrowed amount,sita,harry,P2P
+P7REIA,4/19/2025,Bill Payment,25688,87,25601,paid club membership,rohan,,P2M
+5V8DZ2,5/12/2025,Mobile Recharge,21186,242,20944,data pack activation,deepa,,P2M
+YPX65T,4/30/2025,Money Transfer,21156,10565,10591,paid tuition fee,deepa,mira,P2P
+BO57B2,5/7/2025,Money Transfer,36621,2498,34123,old debt settlement,sita,mira,P2P
+ZME1Z6,4/24/2025,Mobile Recharge,45023,179,44844,monthly mobile recharge,nisha,,P2M
+GPQ38C,5/11/2025,Money Transfer,64134,14487,49647,covered concert tickets,nisha,shruti,P2P
+H7TEDC,5/4/2025,Bill Payment,4661,417,4244,cleared digital TV dues,rohan,,P2M
+H838S2,5/11/2025,Money Transfer,39839,5768,34071,helped friend,deepa,john,P2P
+0YXUNR,5/1/2025,Money Transfer,44874,13639,31235,old debt settlement,rohan,harry,P2P
+7G5GHS,4/16/2025,Bill Payment,24263,174,24089,paid home utilities,anil,,P2M
+38FU3Q,4/13/2025,Bill Payment,17735,149,17586,monthly subscription,anil,,P2M
+YAI0KX,4/18/2025,Money Transfer,13784,5282,8502,old debt settlement,anil,mira,P2P
+XP50F3,4/23/2025,Money Transfer,17049,12554,4495,monthly loan repayment,nisha,harry,P2P
+HAPDOV,4/30/2025,Money Transfer,25548,18202,7346,advance payment to friend,deepa,shruti,P2P
+NN8LE6,4/17/2025,Money Transfer,18159,6140,12019,split vacation cost,aryan,alex,P2P
+75WYL6,5/11/2025,Bill Payment,39428,177,39251,postpaid mobile bill,anil,,P2M
+68EXZR,4/16/2025,Bill Payment,24174,229,23945,credit card bill,rohan,,P2M
+4WIQ2E,5/2/2025,Mobile Recharge,9634,119,9515,daily plan reload,nisha,,P2M
+MDIDG3,4/12/2025,Bill Payment,8415,167,8248,tv cable payment,rohan,,P2M
+OIKUV9,4/13/2025,Money Transfer,48746,10806,37940,old debt settlement,nisha,harry,P2P
+1KI6UY,4/27/2025,Mobile Recharge,31515,179,31336,special festival offer recharge,sita,,P2M
+G44PI2,4/20/2025,Mobile Recharge,6918,452,6466,special festival offer recharge,aryan,,P2M
+WI1CHE,5/12/2025,Mobile Recharge,36008,263,35745,voice and data bundle,sita,,P2M
+6JNW04,5/6/2025,Money Transfer,26649,14424,12225,sent birthday funds,anil,harry,P2P
+4KTL30,4/29/2025,Bill Payment,43258,448,42810,paid electricity bill,rohan,,P2M
+06WRXA,5/3/2025,Mobile Recharge,43547,346,43201,combo pack activated,rohan,,P2M
+JSZIHT,5/9/2025,Money Transfer,42139,5041,37098,shared fuel cost,rohan,alex,P2P
+DVUKP1,4/27/2025,Money Transfer,8529,3865,4664,shared dinner bill,anil,mira,P2P
+OUGPHX,5/12/2025,Bill Payment,23095,153,22942,cleared digital TV dues,deepa,,P2M
+IREZGN,5/6/2025,Mobile Recharge,20372,297,20075,weekly pack reload,nisha,,P2M
+7UAR6H,4/19/2025,Bill Payment,42453,278,42175,regular bill settlement,aryan,,P2M
+ZNRNAV,4/26/2025,Mobile Recharge,7992,320,7672,ntc top-up,aryan,,P2M
+EMKQXJ,4/22/2025,Bill Payment,34093,265,33828,paid electricity bill,nisha,,P2M
+6NQCKO,4/18/2025,Bill Payment,10481,107,10374,education portal fee,deepa,,P2M
+WOW3OP,5/8/2025,Money Transfer,33341,16804,16537,emergency funds,deepa,shruti,P2P
+RRPYEJ,4/22/2025,Money Transfer,49524,19029,30495,split vacation cost,anil,alex,P2P
+P5IA6R,4/26/2025,Money Transfer,48143,2462,45681,emergency funds,sita,mira,P2P
+GDB3C2,4/13/2025,Money Transfer,47239,3861,43378,cash gift for nephew,nisha,kumar,P2P
+XQJTKA,5/5/2025,Mobile Recharge,28246,99,28147,recharged unlimited pack,sita,,P2M
+7JDYJE,4/18/2025,Money Transfer,37469,11656,25813,family medical help,anil,john,P2P
+UYYT4M,5/10/2025,Bill Payment,8701,440,8261,renewed online subscription,nisha,,P2M
+ZJCZ1I,4/26/2025,Bill Payment,17414,187,17227,paid electricity bill,nisha,,P2M
+ORO7CI,5/2/2025,Bill Payment,24481,473,24008,education portal fee,anil,,P2M
+JBMKDO,4/29/2025,Bill Payment,31500,68,31432,renewed online subscription,rohan,,P2M
+LZ5BXU,4/23/2025,Money Transfer,28686,4400,24286,advance payment to friend,nisha,harry,P2P
+66TD3Z,4/26/2025,Mobile Recharge,4348,488,3860,voice pack recharge,sita,,P2M
+HAO8XB,5/4/2025,Money Transfer,20477,17533,2944,split vacation cost,rohan,mira,P2P
+CJJKE5,5/4/2025,Bill Payment,44702,329,44373,monthly EMIs,deepa,,P2M
+BG7UVW,4/27/2025,Bill Payment,15177,265,14912,monthly EMIs,nisha,,P2M
+911J1K,4/17/2025,Money Transfer,15844,4744,11100,split vacation cost,rohan,mira,P2P
+CLY6W0,4/30/2025,Money Transfer,16398,11095,5303,paid tuition fee,sita,harry,P2P
+Z0OP4Z,4/29/2025,Mobile Recharge,22702,155,22547,flash deal recharge,anil,,P2M
+689QCY,5/1/2025,Mobile Recharge,46439,183,46256,recharged phone,rohan,,P2M
+S998Z7,5/5/2025,Bill Payment,30752,440,30312,paid home utilities,aryan,,P2M
+1YT1QX,4/27/2025,Bill Payment,28796,213,28583,internet recharge,nisha,,P2M
+B8UJZP,5/1/2025,Money Transfer,53958,7990,45968,repaid borrowed amount,anil,shruti,P2P
+TW4D2H,5/8/2025,Mobile Recharge,3350,389,2961,limited time mobile pack,nisha,,P2M
+TTW6BT,5/7/2025,Bill Payment,12312,64,12248,renewed online subscription,sita,,P2M
+MV6BBS,4/15/2025,Money Transfer,51348,18173,33175,monthly loan repayment,rohan,harry,P2P
+OPR4PT,4/22/2025,Money Transfer,27908,15980,11928,sent birthday funds,sita,john,P2P
+UHACVS,5/6/2025,Bill Payment,47807,425,47382,internet recharge,nisha,,P2M
+SO1PSS,5/3/2025,Bill Payment,34249,172,34077,monthly EMIs,rohan,,P2M
+5XJJOT,4/30/2025,Mobile Recharge,41757,489,41268,weekly pack reload,nisha,,P2M
+RJ1CCI,4/14/2025,Mobile Recharge,21188,183,21005,voice and data bundle,nisha,,P2M
+ZISGRF,5/3/2025,Money Transfer,30879,15279,15600,gift for birthday,anil,mira,P2P
+DW45KM,4/24/2025,Mobile Recharge,12721,402,12319,bonus talktime refill,deepa,,P2M
+NCBXE7,5/3/2025,Money Transfer,47715,818,46897,shared dinner bill,deepa,shruti,P2P
+4DTDNT,4/24/2025,Mobile Recharge,5995,481,5514,recharged unlimited pack,deepa,,P2M
+KUGPV7,4/27/2025,Bill Payment,38059,92,37967,education portal fee,rohan,,P2M
+IKTPHD,5/5/2025,Money Transfer,4295,973,3322,repaid borrowed amount,sita,mira,P2P
+RJCUGX,4/20/2025,Mobile Recharge,33122,367,32755,voice pack recharge,deepa,,P2M
+UHUD0U,4/27/2025,Money Transfer,30720,2763,27957,gift for birthday,anil,mira,P2P
+I10HMM,5/11/2025,Bill Payment,9704,393,9311,cleared digital TV dues,anil,,P2M
+E1T4FO,5/6/2025,Mobile Recharge,37622,170,37452,quick talktime refill,rohan,,P2M
+VP3J30,5/6/2025,Money Transfer,62436,17290,45146,monthly loan repayment,sita,shruti,P2P
+SDIXLB,4/29/2025,Money Transfer,29837,19416,10421,old debt settlement,anil,mira,P2P
+ZNSM70,4/19/2025,Mobile Recharge,25700,186,25514,ncell recharge,deepa,,P2M
+OTHVNW,5/10/2025,Money Transfer,43601,4589,39012,sent birthday funds,anil,john,P2P
+D9GP7E,4/21/2025,Mobile Recharge,11794,224,11570,recharged phone,deepa,,P2M
+NXGDF7,4/24/2025,Money Transfer,37121,18063,19058,sent rent,rohan,alex,P2P
+K8G8RT,4/22/2025,Mobile Recharge,7517,117,7400,weekly pack reload,nisha,,P2M
+3TPWUZ,5/11/2025,Bill Payment,45977,155,45822,education portal fee,aryan,,P2M
+R9AK4K,4/28/2025,Money Transfer,28801,7722,21079,urgent family need,rohan,alex,P2P
+93S52G,4/23/2025,Bill Payment,34682,464,34218,online newspaper renewal,aryan,,P2M
+8XM47Q,5/11/2025,Bill Payment,17333,354,16979,tv cable payment,sita,,P2M
+O23QBG,4/12/2025,Bill Payment,13110,89,13021,cleared internet bill,rohan,,P2M
+DRAQ3U,5/10/2025,Money Transfer,38424,16553,21871,old debt settlement,sita,harry,P2P
+6C482Z,5/3/2025,Mobile Recharge,10911,460,10451,bonus talktime refill,aryan,,P2M
+4SRNN2,5/2/2025,Bill Payment,34822,177,34645,education portal fee,anil,,P2M
+RP1XIY,5/2/2025,Mobile Recharge,4444,114,4330,combo pack activated,aryan,,P2M
+R8G8ZE,5/12/2025,Bill Payment,44534,358,44176,paid club membership,deepa,,P2M
+WU0VNY,4/30/2025,Mobile Recharge,22134,450,21684,ntc top-up,sita,,P2M
+0ZDVR5,4/14/2025,Money Transfer,9884,2725,7159,cash gift for nephew,aryan,kumar,P2P
+KC311L,5/3/2025,Money Transfer,44149,13907,30242,roommate rent share,sita,alex,P2P
+LG36TZ,4/29/2025,Bill Payment,47605,342,47263,online newspaper renewal,deepa,,P2M
+96DLT8,5/5/2025,Money Transfer,15811,3792,12019,repaid borrowed amount,anil,mira,P2P
+TJ064Y,4/16/2025,Money Transfer,28670,2464,26206,advance payment to friend,aryan,mira,P2P
+Q1C1AP,4/21/2025,Mobile Recharge,9058,84,8974,special festival offer recharge,nisha,,P2M
+SM0CN1,5/3/2025,Money Transfer,17321,13423,3898,shared fuel cost,nisha,alex,P2P
+ZB2E64,4/16/2025,Bill Payment,13458,369,13089,gym membership dues,rohan,,P2M
+06RZKD,5/3/2025,Money Transfer,51130,7994,43136,roommate rent share,aryan,alex,P2P
+R9CFZQ,5/12/2025,Mobile Recharge,37213,426,36787,daily plan reload,deepa,,P2M
+XIU8IX,4/20/2025,Mobile Recharge,18446,381,18065,quick talktime refill,sita,,P2M
+D28T1O,5/5/2025,Mobile Recharge,49307,98,49209,super saver recharge,aryan,,P2M
+Q4LGY7,4/15/2025,Mobile Recharge,20867,487,20380,student discount recharge,deepa,,P2M
+YMMWH6,4/14/2025,Mobile Recharge,1561,412,1149,combo pack activated,nisha,,P2M
+PA9HY6,4/15/2025,Bill Payment,9019,217,8802,paid club membership,rohan,,P2M
+FE4RH1,4/18/2025,Bill Payment,38735,229,38506,online newspaper renewal,deepa,,P2M
+ML5Y1N,5/9/2025,Bill Payment,32703,399,32304,postpaid mobile bill,anil,,P2M
+JVU5HX,5/1/2025,Money Transfer,66983,19376,47607,shared fuel cost,anil,john,P2P
+NOIKR3,5/2/2025,Money Transfer,18562,9291,9271,monthly rent for flat,rohan,shruti,P2P
+KRCRPD,4/14/2025,Mobile Recharge,31928,67,31861,limited time mobile pack,sita,,P2M
+GPXJSB,5/12/2025,Mobile Recharge,26952,83,26869,ncell recharge,nisha,,P2M
+G5TRLP,5/2/2025,Bill Payment,43526,272,43254,monthly EMIs,rohan,,P2M
+TYPJJT,4/30/2025,Mobile Recharge,43760,163,43597,student discount recharge,deepa,,P2M
+KBE8OR,5/5/2025,Mobile Recharge,26094,402,25692,combo pack activated,aryan,,P2M
+661FCA,5/1/2025,Mobile Recharge,7596,400,7196,data pack activation,anil,,P2M
+R3CRX7,4/23/2025,Money Transfer,29074,19124,9950,shared fuel cost,nisha,shruti,P2P
+BWWJIG,4/12/2025,Money Transfer,21587,15604,5983,emergency funds,deepa,harry,P2P
+5NO57G,4/28/2025,Mobile Recharge,34055,53,34002,bonus talktime refill,rohan,,P2M
+X7TBQ8,5/9/2025,Mobile Recharge,34045,187,33858,combo pack activated,deepa,,P2M
+NPSVKN,4/29/2025,Bill Payment,26593,52,26541,paid electricity bill,deepa,,P2M
+0JGCKO,4/29/2025,Bill Payment,41479,87,41392,cleared water charges,sita,,P2M
+LGHUPE,4/22/2025,Mobile Recharge,19688,61,19627,voice pack recharge,nisha,,P2M
+PDC9AR,4/24/2025,Bill Payment,34761,468,34293,renewed online subscription,aryan,,P2M
+UYVVLP,4/13/2025,Bill Payment,3411,431,2980,paid electricity bill,deepa,,P2M
+YYKSUJ,4/29/2025,Money Transfer,28958,17693,11265,emergency funds,deepa,alex,P2P
+8YSF0E,5/8/2025,Mobile Recharge,46975,78,46897,voice and data bundle,aryan,,P2M
+X168K5,4/14/2025,Bill Payment,36464,490,35974,tv cable payment,deepa,,P2M
+TJ9H4A,5/2/2025,Bill Payment,6505,93,6412,education portal fee,nisha,,P2M
+020FQA,5/10/2025,Money Transfer,24620,14949,9671,cash gift for nephew,sita,harry,P2P
+QHDEH7,4/25/2025,Mobile Recharge,2898,386,2512,recharged phone,aryan,,P2M
+GSHRCE,5/12/2025,Mobile Recharge,27684,77,27607,ntc top-up,nisha,,P2M
+ALS173,4/27/2025,Bill Payment,25621,478,25143,monthly EMIs,sita,,P2M
+Y7ZOHI,4/29/2025,Mobile Recharge,15430,89,15341,evening call pack,aryan,,P2M
+T8M76C,4/18/2025,Bill Payment,42109,212,41897,cleared digital TV dues,sita,,P2M
+CR5X0M,4/24/2025,Money Transfer,23651,3081,20570,family medical help,deepa,john,P2P
+ME1JAI,5/11/2025,Mobile Recharge,7845,244,7601,night data pack,rohan,,P2M
+HWUMYC,5/11/2025,Money Transfer,16650,11698,4952,emergency funds,rohan,kumar,P2P
+X8OGK8,5/4/2025,Bill Payment,17461,80,17381,renewed online subscription,rohan,,P2M
+RCME8S,4/26/2025,Bill Payment,46642,410,46232,settled utility bills,aryan,,P2M
+9FSMED,4/14/2025,Mobile Recharge,10123,73,10050,monthly mobile recharge,sita,,P2M
+LKYVBD,5/12/2025,Bill Payment,47786,358,47428,paid gas bill,nisha,,P2M
+RYCO7J,4/26/2025,Mobile Recharge,16583,488,16095,night data pack,sita,,P2M
+OGNE1Y,4/16/2025,Mobile Recharge,41892,192,41700,monthly mobile recharge,anil,,P2M
+DQMILZ,5/2/2025,Mobile Recharge,28506,376,28130,voice pack recharge,sita,,P2M
+UR56J3,4/30/2025,Bill Payment,43711,364,43347,postpaid mobile bill,sita,,P2M
+UHPJ95,5/1/2025,Bill Payment,49008,464,48544,education portal fee,sita,,P2M
+OMXK75,4/26/2025,Mobile Recharge,3718,229,3489,recharged phone,aryan,,P2M
+LMJYGC,5/3/2025,Money Transfer,45817,19164,26653,shared dinner bill,anil,kumar,P2P
+VXM4TE,5/12/2025,Mobile Recharge,37737,164,37573,weekly pack reload,deepa,,P2M
+AW756L,5/5/2025,Bill Payment,16729,368,16361,credit card bill,anil,,P2M
+XBNML8,4/13/2025,Bill Payment,28609,254,28355,education portal fee,deepa,,P2M
+Z12LQ8,5/9/2025,Bill Payment,8756,60,8696,tv cable payment,sita,,P2M
+KQ8YUF,4/16/2025,Money Transfer,21878,3950,17928,cash gift for nephew,aryan,shruti,P2P
+701PFE,4/21/2025,Mobile Recharge,28481,50,28431,recharged phone,sita,,P2M
+419S7C,4/17/2025,Money Transfer,18929,16078,2851,old debt settlement,sita,harry,P2P
+4F5XFD,4/28/2025,Money Transfer,32282,12413,19869,shared fuel cost,rohan,shruti,P2P
+F50O19,5/12/2025,Money Transfer,29684,18103,11581,emergency funds,aryan,shruti,P2P
+3J9TVT,4/13/2025,Money Transfer,66302,19024,47278,paid tuition fee,anil,harry,P2P
+L2GEO8,5/1/2025,Money Transfer,45229,8887,36342,family medical help,aryan,alex,P2P
+GJKQCG,4/17/2025,Bill Payment,39910,135,39775,settled utility bills,deepa,,P2M
+PSXHP0,4/19/2025,Mobile Recharge,42441,373,42068,recharged phone,aryan,,P2M
+L9Y0J5,4/16/2025,Money Transfer,30299,14618,15681,cash gift for nephew,sita,mira,P2P
+YMAHBV,5/9/2025,Money Transfer,18370,320,18050,emergency funds,deepa,mira,P2P
+V69RFJ,5/6/2025,Mobile Recharge,34343,397,33946,evening call pack,rohan,,P2M
+L0Y5PR,5/11/2025,Bill Payment,48137,96,48041,regular bill settlement,sita,,P2M
+JF0KE8,4/25/2025,Money Transfer,18397,6579,11818,cash gift for nephew,rohan,alex,P2P
+CZK8RD,5/10/2025,Mobile Recharge,13747,499,13248,night data pack,deepa,,P2M
+Y45T56,4/12/2025,Mobile Recharge,12599,100,12499,voice pack recharge,anil,,P2M
+SSBW0F,5/2/2025,Mobile Recharge,33404,427,32977,recharged unlimited pack,rohan,,P2M
+L4Y96V,5/11/2025,Bill Payment,3189,419,2770,online newspaper renewal,rohan,,P2M
+7VRE87,4/24/2025,Mobile Recharge,25229,459,24770,bonus talktime refill,anil,,P2M
+1WHY5W,5/8/2025,Bill Payment,11876,470,11406,regular bill settlement,aryan,,P2M
+A1KDBQ,4/16/2025,Bill Payment,19995,386,19609,paid gas bill,sita,,P2M
+VNOIUG,4/27/2025,Bill Payment,21449,196,21253,monthly subscription,sita,,P2M
+5BB5SW,4/16/2025,Money Transfer,10238,6943,3295,shared fuel cost,aryan,alex,P2P
+0I9NGM,4/28/2025,Bill Payment,27302,449,26853,tv cable payment,aryan,,P2M
+Z0C0AO,4/13/2025,Money Transfer,21782,3813,17969,advance payment to friend,aryan,harry,P2P
+OVMJSR,4/30/2025,Mobile Recharge,12742,341,12401,weekly pack reload,sita,,P2M
+K8VGFB,5/12/2025,Money Transfer,49005,9030,39975,sent rent,rohan,shruti,P2P
+U6OTY1,5/8/2025,Mobile Recharge,29115,500,28615,special festival offer recharge,anil,,P2M
+VIDFEW,4/12/2025,Bill Payment,23451,393,23058,tv cable payment,nisha,,P2M
+OS7F11,4/28/2025,Mobile Recharge,8349,484,7865,flash deal recharge,anil,,P2M
+7KOC54,4/23/2025,Bill Payment,18095,302,17793,online newspaper renewal,rohan,,P2M
+JCMTW7,4/20/2025,Bill Payment,9177,468,8709,settled utility bills,deepa,,P2M
+4IDC0Q,4/27/2025,Money Transfer,41207,2583,38624,split vacation cost,nisha,mira,P2P
+Q5S8PN,4/25/2025,Mobile Recharge,7079,223,6856,quick talktime refill,deepa,,P2M
+CD26ZP,4/13/2025,Bill Payment,11115,369,10746,paid club membership,sita,,P2M
+LA5P70,4/24/2025,Mobile Recharge,9269,173,9096,limited time mobile pack,nisha,,P2M
+7GKHLN,4/27/2025,Bill Payment,3317,87,3230,credit card bill,anil,,P2M
+AK7R2A,4/23/2025,Bill Payment,31956,160,31796,education portal fee,deepa,,P2M
+4ZSCHG,4/18/2025,Money Transfer,31449,8620,22829,urgent family need,aryan,mira,P2P
+A852ZS,4/15/2025,Money Transfer,37009,18359,18650,support for groceries,rohan,mira,P2P
+NBOP2H,5/12/2025,Bill Payment,50217,325,49892,government water bill,rohan,,P2M
+DG3OWO,4/23/2025,Bill Payment,39186,117,39069,cleared water charges,deepa,,P2M
+59BEGH,4/29/2025,Money Transfer,36187,6657,29530,advance payment to friend,sita,harry,P2P
+FGEI9B,4/13/2025,Mobile Recharge,27875,492,27383,recharged phone,rohan,,P2M
+5O9YMR,4/27/2025,Money Transfer,18258,10251,8007,monthly loan repayment,sita,alex,P2P
+U8I5DF,5/3/2025,Money Transfer,33838,14019,19819,emergency funds,deepa,mira,P2P
+6RACBJ,4/21/2025,Mobile Recharge,12645,416,12229,data pack activation,rohan,,P2M
+B1F0H1,4/18/2025,Money Transfer,22542,7331,15211,split vacation cost,deepa,alex,P2P
+7AW36W,4/27/2025,Bill Payment,9067,385,8682,credit card bill,nisha,,P2M
+OG1ZC9,5/7/2025,Bill Payment,29791,396,29395,cleared digital TV dues,aryan,,P2M
+N21OIG,5/5/2025,Bill Payment,16309,168,16141,education portal fee,aryan,,P2M
+NQSO3L,4/25/2025,Bill Payment,3359,204,3155,settled utility bills,aryan,,P2M
+VAWNMO,5/11/2025,Bill Payment,2337,230,2107,monthly subscription,anil,,P2M
+82ZZGZ,5/2/2025,Money Transfer,38437,18765,19672,support for groceries,sita,shruti,P2P
+REUYBR,4/24/2025,Money Transfer,16915,15026,1889,shared fuel cost,nisha,kumar,P2P
+02ZD8A,4/22/2025,Money Transfer,30305,19015,11290,sent birthday funds,rohan,shruti,P2P
+CKXR3V,4/19/2025,Bill Payment,47640,105,47535,tv cable payment,anil,,P2M
+L59LUT,5/8/2025,Money Transfer,51382,16552,34830,old debt settlement,deepa,shruti,P2P
+LS426I,5/8/2025,Mobile Recharge,21978,84,21894,flash deal recharge,anil,,P2M
+TGI9ZF,4/21/2025,Mobile Recharge,44501,93,44408,ntc top-up,aryan,,P2M
+YB254F,5/3/2025,Bill Payment,44602,208,44394,paid gas bill,rohan,,P2M
+CH6TR6,5/8/2025,Money Transfer,50895,5196,45699,advance payment to friend,rohan,mira,P2P
+YGZKBD,4/30/2025,Bill Payment,41325,331,40994,paid electricity bill,aryan,,P2M
+0U7FKI,4/22/2025,Mobile Recharge,41774,157,41617,voice and data bundle,sita,,P2M
+AAE4T0,4/13/2025,Bill Payment,19941,417,19524,education portal fee,sita,,P2M
+U08C5T,5/2/2025,Money Transfer,39166,11908,27258,monthly rent for flat,deepa,harry,P2P
+8AL7V5,5/1/2025,Bill Payment,39077,121,38956,paid gas bill,anil,,P2M
+UBORBN,4/29/2025,Bill Payment,7980,146,7834,government water bill,nisha,,P2M
+GR78G6,4/14/2025,Mobile Recharge,20550,365,20185,voice pack recharge,anil,,P2M
+OGG49L,5/1/2025,Mobile Recharge,24336,326,24010,monthly mobile recharge,nisha,,P2M
+7095OR,5/1/2025,Bill Payment,26181,474,25707,paid gas bill,aryan,,P2M
+RLABB3,4/17/2025,Bill Payment,17300,315,16985,regular bill settlement,rohan,,P2M
+WE7H5P,4/28/2025,Bill Payment,28321,139,28182,paid electricity bill,anil,,P2M
+RZTOFI,5/5/2025,Money Transfer,56393,10771,45622,support for groceries,sita,shruti,P2P
+YU4NDG,5/12/2025,Money Transfer,18472,5095,13377,advance payment to friend,sita,alex,P2P
+JTEQD7,5/10/2025,Mobile Recharge,26255,224,26031,combo pack activated,rohan,,P2M
+RT2M7Z,5/9/2025,Money Transfer,35764,14527,21237,family medical help,deepa,shruti,P2P
+9G2BQ3,5/12/2025,Mobile Recharge,5929,325,5604,combo pack activated,anil,,P2M
+O586PV,5/12/2025,Money Transfer,43160,15846,27314,paid tuition fee,sita,shruti,P2P
+SIV0FN,5/2/2025,Mobile Recharge,10190,307,9883,student discount recharge,aryan,,P2M
+A18HQX,4/12/2025,Money Transfer,9560,1950,7610,shared fuel cost,rohan,harry,P2P
+FTKFPQ,5/3/2025,Money Transfer,18302,5715,12587,support for groceries,aryan,alex,P2P
+FHEOGI,4/19/2025,Mobile Recharge,21425,443,20982,daily plan reload,deepa,,P2M
+PPZGVQ,4/25/2025,Bill Payment,3576,336,3240,tv cable payment,rohan,,P2M
+WYZHL1,4/29/2025,Bill Payment,28380,401,27979,regular bill settlement,anil,,P2M
+9UO0HM,5/8/2025,Mobile Recharge,46588,262,46326,recharged phone,nisha,,P2M
+70E7GX,4/29/2025,Bill Payment,6435,331,6104,monthly EMIs,nisha,,P2M
+ECBLPS,4/13/2025,Bill Payment,15463,222,15241,monthly subscription,rohan,,P2M
+BNNB3X,5/6/2025,Mobile Recharge,22118,230,21888,ncell recharge,sita,,P2M
+SYM5E7,4/12/2025,Money Transfer,42723,8058,34665,split vacation cost,sita,john,P2P
+0GOV6Y,4/19/2025,Money Transfer,41705,12337,29368,split vacation cost,anil,john,P2P
+YD4JDB,5/9/2025,Bill Payment,27305,373,26932,paid gas bill,anil,,P2M
+E53IQU,4/13/2025,Mobile Recharge,2765,227,2538,bonus talktime refill,aryan,,P2M
+USJY9C,4/19/2025,Money Transfer,67754,18588,49166,family medical help,aryan,harry,P2P
+AZ3557,5/12/2025,Mobile Recharge,20623,476,20147,voice and data bundle,sita,,P2M
+GPKM0G,4/15/2025,Mobile Recharge,22252,364,21888,voice pack recharge,nisha,,P2M
+MVTI1E,4/22/2025,Mobile Recharge,11900,300,11600,voice pack recharge,sita,,P2M
+VZSVV9,4/27/2025,Mobile Recharge,24055,175,23880,limited time mobile pack,deepa,,P2M
+U3GUIP,4/26/2025,Money Transfer,34925,9312,25613,split vacation cost,sita,john,P2P
+EJXROK,4/23/2025,Mobile Recharge,43157,466,42691,ntc top-up,sita,,P2M
+YUCHIZ,5/8/2025,Money Transfer,46397,9615,36782,helped friend,sita,mira,P2P
+8FLPZU,5/10/2025,Money Transfer,27556,566,26990,monthly loan repayment,nisha,alex,P2P
+IT6U99,4/16/2025,Bill Payment,7507,303,7204,credit card bill,aryan,,P2M
+HGNPZF,4/29/2025,Money Transfer,49664,14630,35034,emergency funds,deepa,shruti,P2P
+AYI7F8,4/19/2025,Bill Payment,47627,127,47500,paid gas bill,nisha,,P2M
+3IJGDY,4/24/2025,Money Transfer,52625,12745,39880,split vacation cost,aryan,alex,P2P
+HKYYJ4,5/3/2025,Money Transfer,25446,1966,23480,shared fuel cost,nisha,harry,P2P
+D087BF,4/14/2025,Money Transfer,22503,1053,21450,paid tuition fee,deepa,john,P2P
+8NWZ01,4/17/2025,Money Transfer,24376,8448,15928,paid tuition fee,deepa,shruti,P2P
+GGI8PS,5/1/2025,Bill Payment,3378,409,2969,cleared water charges,anil,,P2M
+TB48VD,4/26/2025,Mobile Recharge,39945,385,39560,ntc top-up,aryan,,P2M
+30PQ7G,4/16/2025,Money Transfer,37941,14441,23500,shared fuel cost,anil,alex,P2P
+SG0UTD,4/28/2025,Bill Payment,37033,128,36905,government water bill,anil,,P2M
+6K02MC,4/14/2025,Money Transfer,11952,3731,8221,split vacation cost,aryan,shruti,P2P
+MEYHHO,4/29/2025,Mobile Recharge,12351,276,12075,recharged phone,deepa,,P2M
+06BC42,4/30/2025,Bill Payment,20107,355,19752,renewed online subscription,aryan,,P2M
+RZIEAA,5/5/2025,Mobile Recharge,6343,356,5987,combo pack activated,nisha,,P2M
+7J2D97,4/23/2025,Bill Payment,30613,276,30337,online newspaper renewal,anil,,P2M
+TRHMDP,4/18/2025,Money Transfer,18604,2548,16056,support for groceries,sita,kumar,P2P
+CW5H7D,5/3/2025,Bill Payment,38019,378,37641,cleared digital TV dues,rohan,,P2M
+V4X66N,4/30/2025,Bill Payment,48105,170,47935,paid home utilities,deepa,,P2M
+DKFDQ6,5/4/2025,Mobile Recharge,11218,53,11165,recharged unlimited pack,anil,,P2M
+JV32EZ,5/8/2025,Money Transfer,53638,8014,45624,sent birthday funds,sita,alex,P2P
+VUJSTS,4/25/2025,Mobile Recharge,35928,245,35683,special festival offer recharge,rohan,,P2M
+3UFA4U,5/4/2025,Money Transfer,38129,5727,32402,shared dinner bill,deepa,john,P2P
+QVKE5P,4/29/2025,Money Transfer,22831,17061,5770,roommate rent share,aryan,alex,P2P
+CNY31R,4/30/2025,Bill Payment,38680,478,38202,government water bill,rohan,,P2M
+7GY383,5/11/2025,Mobile Recharge,48196,301,47895,weekly pack reload,sita,,P2M
+QCDIWW,5/12/2025,Money Transfer,51101,1421,49680,monthly loan repayment,rohan,alex,P2P
+NYMW4D,5/10/2025,Bill Payment,8311,476,7835,education portal fee,nisha,,P2M
+E4FTD7,4/20/2025,Mobile Recharge,7205,103,7102,daily plan reload,sita,,P2M
+ZYGYEG,5/7/2025,Bill Payment,39401,105,39296,paid gas bill,anil,,P2M
+HRZ3H5,5/10/2025,Bill Payment,30906,67,30839,government water bill,nisha,,P2M
+UTKWBO,4/20/2025,Money Transfer,21309,10597,10712,sent rent,anil,john,P2P
+8455LL,4/20/2025,Bill Payment,13447,347,13100,regular bill settlement,aryan,,P2M
+3COVEK,4/12/2025,Bill Payment,35596,57,35539,credit card bill,deepa,,P2M
+UTW610,4/14/2025,Bill Payment,7683,339,7344,paid electricity bill,nisha,,P2M
+6INHQU,4/26/2025,Mobile Recharge,24259,201,24058,ntc top-up,deepa,,P2M
+SMHMSH,4/28/2025,Bill Payment,14662,327,14335,postpaid mobile bill,nisha,,P2M
+M1DJJM,4/24/2025,Money Transfer,55658,7875,47783,gift for birthday,anil,kumar,P2P
+0YRL6U,4/12/2025,Mobile Recharge,38931,162,38769,monthly mobile recharge,sita,,P2M
+CV52VQ,4/25/2025,Bill Payment,27908,374,27534,settled utility bills,rohan,,P2M
+JOUJ0G,4/20/2025,Money Transfer,63389,18741,44648,shared dinner bill,anil,shruti,P2P
+8XZWJ5,4/19/2025,Money Transfer,17355,6654,10701,shared fuel cost,deepa,shruti,P2P
+IKZ676,4/12/2025,Bill Payment,34970,500,34470,postpaid mobile bill,deepa,,P2M
+R1KO5M,4/26/2025,Bill Payment,21336,343,20993,renewed online subscription,deepa,,P2M
+F2W3VH,5/1/2025,Money Transfer,26573,2794,23779,shared fuel cost,anil,harry,P2P
+76QBTJ,5/5/2025,Mobile Recharge,4365,275,4090,combo pack activated,sita,,P2M
+JHEVRC,4/19/2025,Bill Payment,18457,234,18223,paid gas bill,aryan,,P2M
+LHT06B,4/23/2025,Money Transfer,33221,13188,20033,old debt settlement,sita,alex,P2P
+Z5TEQE,5/9/2025,Bill Payment,30223,301,29922,postpaid mobile bill,nisha,,P2M
+W5Y1FM,4/30/2025,Bill Payment,35159,148,35011,education portal fee,nisha,,P2M
+7B0A96,4/15/2025,Mobile Recharge,3319,67,3252,recharged unlimited pack,anil,,P2M
+O9HW01,4/22/2025,Mobile Recharge,49406,337,49069,recharged phone,aryan,,P2M
+9L8FV2,4/19/2025,Money Transfer,12213,5705,6508,roommate rent share,nisha,mira,P2P
+U5N81P,4/18/2025,Mobile Recharge,21977,237,21740,weekly pack reload,anil,,P2M
+ITO3I4,4/13/2025,Mobile Recharge,44976,137,44839,quick talktime refill,anil,,P2M
+T5BXVR,4/15/2025,Money Transfer,20889,6740,14149,sent rent,deepa,alex,P2P
+OP21SJ,5/2/2025,Money Transfer,44866,120,44746,old debt settlement,rohan,john,P2P
+4CR1A8,4/29/2025,Bill Payment,19974,249,19725,credit card bill,anil,,P2M
+WWO5UU,4/26/2025,Money Transfer,52413,9396,43017,paid tuition fee,deepa,harry,P2P
+PON0YI,5/3/2025,Mobile Recharge,8999,440,8559,monthly mobile recharge,aryan,,P2M
+Q5S0HU,5/10/2025,Mobile Recharge,24489,237,24252,recharged unlimited pack,rohan,,P2M
+IU68V8,4/16/2025,Bill Payment,47083,370,46713,gym membership dues,aryan,,P2M
+ZEQEYN,5/3/2025,Bill Payment,15167,376,14791,postpaid mobile bill,aryan,,P2M
+E47KPI,4/22/2025,Mobile Recharge,22373,187,22186,ncell recharge,rohan,,P2M
+QSYUD0,5/2/2025,Money Transfer,30143,12130,18013,shared dinner bill,anil,mira,P2P
+L816JA,4/16/2025,Money Transfer,39496,9779,29717,old debt settlement,aryan,john,P2P
+7HG9YW,5/11/2025,Money Transfer,24543,17941,6602,sent birthday funds,rohan,alex,P2P
+VOYCAV,5/2/2025,Money Transfer,63857,19881,43976,repaid borrowed amount,deepa,harry,P2P
+HB1TVZ,4/27/2025,Bill Payment,8039,351,7688,paid club membership,rohan,,P2M
+GJUG6S,4/24/2025,Bill Payment,18136,194,17942,cleared internet bill,rohan,,P2M
+MHTYLZ,4/15/2025,Mobile Recharge,14209,332,13877,night data pack,deepa,,P2M
+L5OADO,4/27/2025,Bill Payment,35514,156,35358,cleared water charges,sita,,P2M
+X6RIYZ,4/21/2025,Mobile Recharge,31839,224,31615,voice and data bundle,anil,,P2M
+ZP94GM,4/21/2025,Mobile Recharge,17037,137,16900,bonus talktime refill,sita,,P2M
+WBMOXI,4/26/2025,Mobile Recharge,24174,453,23721,recharged phone,deepa,,P2M
+CHAFQ5,4/23/2025,Money Transfer,22998,5120,17878,monthly rent for flat,rohan,mira,P2P
+MA4297,4/27/2025,Money Transfer,31899,19751,12148,advance payment to friend,rohan,john,P2P
+5DH5EW,4/18/2025,Money Transfer,62394,15793,46601,shared dinner bill,sita,kumar,P2P
+EEIPSZ,5/4/2025,Bill Payment,9865,414,9451,cleared internet bill,nisha,,P2M
+8T51OX,5/10/2025,Mobile Recharge,38657,212,38445,daily plan reload,aryan,,P2M
+2BU0II,4/30/2025,Mobile Recharge,11383,148,11235,recharged phone,aryan,,P2M
+85T48W,5/6/2025,Bill Payment,5110,67,5043,cleared internet bill,aryan,,P2M
+OSOG8Q,5/9/2025,Bill Payment,24821,416,24405,settled utility bills,sita,,P2M
+O4MJOH,4/22/2025,Mobile Recharge,13639,398,13241,daily plan reload,rohan,,P2M
+IPW0T9,4/29/2025,Money Transfer,36639,357,36282,monthly rent for flat,deepa,mira,P2P
+NDUP37,5/8/2025,Bill Payment,15770,453,15317,regular bill settlement,rohan,,P2M
+Z0WF53,5/7/2025,Bill Payment,45089,361,44728,tv cable payment,rohan,,P2M
+F7AWBM,4/29/2025,Mobile Recharge,17937,140,17797,weekly pack reload,aryan,,P2M
+JLQVDM,5/3/2025,Mobile Recharge,13130,450,12680,voice and data bundle,rohan,,P2M
+CAN29K,4/19/2025,Money Transfer,21407,11204,10203,shared fuel cost,nisha,shruti,P2P
+K2MWL0,4/19/2025,Mobile Recharge,11120,436,10684,weekly pack reload,sita,,P2M
+S070D7,4/27/2025,Mobile Recharge,17626,254,17372,combo pack activated,nisha,,P2M
+WMSKRC,4/30/2025,Money Transfer,37433,14641,22792,emergency funds,anil,john,P2P
+4554WT,4/18/2025,Money Transfer,48636,2955,45681,gift for birthday,rohan,harry,P2P
+8CUJDV,4/21/2025,Mobile Recharge,33341,494,32847,recharged unlimited pack,anil,,P2M
+FMDHH9,5/4/2025,Money Transfer,58033,15267,42766,shared fuel cost,rohan,harry,P2P
+80JDDM,4/19/2025,Bill Payment,38900,304,38596,regular bill settlement,anil,,P2M
+N28YUT,5/6/2025,Money Transfer,45479,14801,30678,family medical help,sita,harry,P2P
+6SQC66,4/26/2025,Bill Payment,17389,439,16950,government water bill,rohan,,P2M
+RJR2SC,4/30/2025,Bill Payment,48283,452,47831,regular bill settlement,anil,,P2M
+TTXGZ8,4/20/2025,Money Transfer,30483,8747,21736,support for groceries,sita,kumar,P2P
+VFRE6L,5/4/2025,Money Transfer,18867,2601,16266,monthly rent for flat,sita,mira,P2P
+OEMJQP,4/27/2025,Mobile Recharge,46202,220,45982,daily plan reload,anil,,P2M
+SPVGR1,4/26/2025,Money Transfer,42119,8756,33363,emergency funds,deepa,john,P2P
+31KK9Z,4/23/2025,Money Transfer,43687,13292,30395,monthly loan repayment,aryan,alex,P2P
+2HNWY3,4/22/2025,Money Transfer,62606,19316,43290,support for groceries,deepa,harry,P2P
+N1JRUT,4/12/2025,Bill Payment,41180,404,40776,renewed online subscription,deepa,,P2M
+TOPFCH,5/5/2025,Bill Payment,7547,167,7380,cleared internet bill,deepa,,P2M
+5AAP03,5/5/2025,Bill Payment,33660,67,33593,credit card bill,aryan,,P2M
+4JVR1B,5/4/2025,Money Transfer,40870,2766,38104,sent birthday funds,aryan,john,P2P
+SAQUO7,4/23/2025,Bill Payment,15191,143,15048,monthly EMIs,deepa,,P2M
+XH3YO3,4/17/2025,Mobile Recharge,17982,482,17500,recharged unlimited pack,sita,,P2M
+2LYT5C,4/23/2025,Money Transfer,59586,14752,44834,sent birthday funds,sita,alex,P2P
+ACIXBP,4/28/2025,Mobile Recharge,6928,262,6666,monthly mobile recharge,anil,,P2M
+X4JAHO,4/25/2025,Mobile Recharge,42883,371,42512,monthly mobile recharge,sita,,P2M
+FUZT43,4/19/2025,Money Transfer,15898,10088,5810,shared dinner bill,rohan,shruti,P2P
+0RZDOD,5/2/2025,Bill Payment,30801,424,30377,paid club membership,aryan,,P2M
+1KYF6M,4/15/2025,Bill Payment,41286,350,40936,gym membership dues,aryan,,P2M
+D4QM4K,4/24/2025,Bill Payment,8026,338,7688,monthly subscription,nisha,,P2M
+QYIUOO,4/13/2025,Mobile Recharge,10330,441,9889,recharged unlimited pack,aryan,,P2M
+6YRGAR,5/2/2025,Mobile Recharge,45604,420,45184,voice and data bundle,aryan,,P2M
+FXHAJN,5/11/2025,Bill Payment,36956,94,36862,government water bill,anil,,P2M
+HXL8AZ,4/22/2025,Money Transfer,56287,15706,40581,helped friend,sita,mira,P2P
+G9ME4U,5/8/2025,Bill Payment,44119,296,43823,paid gas bill,nisha,,P2M
+IJXNS6,4/20/2025,Bill Payment,36829,314,36515,paid electricity bill,sita,,P2M
+KHR69P,4/18/2025,Money Transfer,43552,15025,28527,emergency funds,rohan,alex,P2P
+L1QAFB,5/3/2025,Mobile Recharge,4987,177,4810,recharged phone,rohan,,P2M
+GFO27L,4/14/2025,Money Transfer,40612,130,40482,sent rent,aryan,kumar,P2P
+E5QWX8,4/27/2025,Bill Payment,44279,97,44182,monthly subscription,deepa,,P2M
+6USN54,4/25/2025,Bill Payment,28597,198,28399,gym membership dues,anil,,P2M
+IVV1FP,4/17/2025,Money Transfer,45978,10338,35640,roommate rent share,deepa,kumar,P2P
+HXMABB,5/2/2025,Mobile Recharge,12923,133,12790,data pack activation,anil,,P2M
+MR74QG,4/26/2025,Mobile Recharge,38098,303,37795,combo pack activated,sita,,P2M
+3J79MF,5/1/2025,Mobile Recharge,45374,182,45192,quick talktime refill,nisha,,P2M
+OP8L30,4/20/2025,Mobile Recharge,42963,87,42876,special festival offer recharge,sita,,P2M
+MIAHPS,5/7/2025,Bill Payment,34517,444,34073,postpaid mobile bill,aryan,,P2M
+PKUF8U,5/6/2025,Mobile Recharge,9754,272,9482,night data pack,deepa,,P2M
+MXP3PT,4/20/2025,Mobile Recharge,14899,160,14739,weekly pack reload,nisha,,P2M
+AE3PDW,4/22/2025,Mobile Recharge,11333,324,11009,monthly mobile recharge,deepa,,P2M
+US3LF7,5/7/2025,Mobile Recharge,5748,488,5260,night data pack,rohan,,P2M
+BEWO0N,4/26/2025,Money Transfer,27421,3680,23741,old debt settlement,rohan,shruti,P2P
+JFI3WJ,5/4/2025,Mobile Recharge,46325,158,46167,daily plan reload,deepa,,P2M
+DLYP69,4/17/2025,Money Transfer,44107,18791,25316,monthly loan repayment,rohan,mira,P2P
+RHN6QI,4/26/2025,Money Transfer,28096,3464,24632,roommate rent share,deepa,mira,P2P
+WO0ZHQ,4/16/2025,Mobile Recharge,46865,486,46379,data pack activation,deepa,,P2M
+GPXAD2,5/8/2025,Bill Payment,37178,214,36964,monthly EMIs,sita,,P2M
+FBZKQ3,4/22/2025,Money Transfer,35043,3137,31906,sent rent,deepa,harry,P2P
+7BT00I,4/16/2025,Money Transfer,38846,15356,23490,advance payment to friend,deepa,kumar,P2P
+RMUBXH,5/5/2025,Mobile Recharge,41419,158,41261,quick talktime refill,aryan,,P2M
+IB231Y,4/16/2025,Bill Payment,34370,131,34239,tv cable payment,aryan,,P2M
+HBADA9,5/6/2025,Bill Payment,13854,318,13536,internet recharge,rohan,,P2M
+6ZADHH,4/19/2025,Money Transfer,30783,672,30111,family medical help,anil,shruti,P2P
+G2FGLB,5/2/2025,Money Transfer,29181,15936,13245,repaid borrowed amount,aryan,kumar,P2P
+9US7TS,4/23/2025,Bill Payment,13295,95,13200,gym membership dues,sita,,P2M
+XB2ES4,4/16/2025,Bill Payment,32020,78,31942,paid home utilities,sita,,P2M
+F2IZWF,4/13/2025,Money Transfer,37687,9976,27711,sent birthday funds,deepa,kumar,P2P
+6G1ANV,5/11/2025,Money Transfer,65193,19087,46106,paid tuition fee,aryan,alex,P2P
+F950W8,4/13/2025,Mobile Recharge,15829,230,15599,combo pack activated,deepa,,P2M
+J0K9XJ,4/23/2025,Money Transfer,63359,13620,49739,urgent family need,deepa,harry,P2P
+H6EBQ8,4/16/2025,Mobile Recharge,3590,415,3175,voice and data bundle,deepa,,P2M
+L9I2MN,5/4/2025,Money Transfer,31117,19164,11953,covered concert tickets,sita,mira,P2P
+2JPAAI,5/2/2025,Money Transfer,39627,12233,27394,cash gift for nephew,aryan,john,P2P
+6KAWYB,5/8/2025,Money Transfer,42547,12700,29847,old debt settlement,aryan,mira,P2P
+S8COBQ,5/11/2025,Money Transfer,18674,12704,5970,monthly loan repayment,anil,mira,P2P
+VMBLR9,4/12/2025,Mobile Recharge,5981,65,5916,night data pack,nisha,,P2M
+AJRAL8,4/26/2025,Money Transfer,48789,12475,36314,shared dinner bill,anil,mira,P2P
+FVSW2R,4/17/2025,Money Transfer,20591,6571,14020,paid tuition fee,anil,john,P2P
+DUSXA0,4/29/2025,Mobile Recharge,40509,90,40419,recharged unlimited pack,rohan,,P2M
+CIVKDS,5/2/2025,Mobile Recharge,13594,357,13237,special festival offer recharge,aryan,,P2M
+N9S64J,5/7/2025,Mobile Recharge,31214,230,30984,super saver recharge,sita,,P2M
+7ET1DC,4/17/2025,Mobile Recharge,36124,499,35625,data pack activation,aryan,,P2M
+LT4PN4,5/4/2025,Money Transfer,41754,3103,38651,sent birthday funds,anil,shruti,P2P
+94EDD2,4/30/2025,Money Transfer,23929,19563,4366,sent birthday funds,anil,harry,P2P
+5M63HB,4/27/2025,Bill Payment,38184,267,37917,education portal fee,nisha,,P2M
+I4M1PY,4/25/2025,Money Transfer,35856,12189,23667,roommate rent share,nisha,shruti,P2P
+547C31,4/19/2025,Mobile Recharge,28666,405,28261,monthly mobile recharge,nisha,,P2M
+6EMDTP,4/24/2025,Bill Payment,14458,97,14361,postpaid mobile bill,sita,,P2M
+MF800F,4/15/2025,Bill Payment,48134,183,47951,paid home utilities,rohan,,P2M
+H1PS6L,4/21/2025,Bill Payment,24553,277,24276,paid electricity bill,aryan,,P2M
+SO0ORQ,4/23/2025,Money Transfer,18327,16631,1696,roommate rent share,nisha,john,P2P
+CCKL4V,4/12/2025,Money Transfer,17640,1388,16252,paid tuition fee,sita,mira,P2P
+LN64EY,4/22/2025,Bill Payment,8769,196,8573,gym membership dues,deepa,,P2M
+2NVKMR,4/17/2025,Money Transfer,10298,4616,5682,shared dinner bill,aryan,mira,P2P
+Y80XWO,5/3/2025,Mobile Recharge,31850,500,31350,combo pack activated,sita,,P2M
+ILAAKE,4/16/2025,Mobile Recharge,48877,410,48467,limited time mobile pack,rohan,,P2M
+KXVO06,5/10/2025,Mobile Recharge,49775,431,49344,flash deal recharge,deepa,,P2M
+A4NRDP,5/10/2025,Bill Payment,14401,483,13918,credit card bill,aryan,,P2M
+FB5NQP,4/18/2025,Money Transfer,57963,9989,47974,sent birthday funds,deepa,shruti,P2P
